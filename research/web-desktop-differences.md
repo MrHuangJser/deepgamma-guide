@@ -127,6 +127,8 @@ put  delta贡献 =  80 × (-0.40) = -32
 
 Series默认绿/紫、Bars、Solid、宽5、Auto color=+/-；名称及其背景关、值及其背景开、Use chart color关、Show line关。可改Line显示累计走势。累计曲线上升只说明所选统计的新增贡献为正，不意味着每笔都是call买开，更不是已确认的期货买单。
 
+**累计流不自动等于当前风险**：`Net MM x gamma`的历史累计与Summary Gex的MM GEX，可能在初始库存和重估方式上不同；官方未充分公开历史Greek权重是否重算，不能要求两者数值相等。`Net MM x delta`也不自动给出当前DEX或待执行ES订单。算例见[做市商分析主线](../guides/market-maker-framework.md)。
+
 ## 5. Option Envelopes：Carry 与价格位置定义的差异
 
 来源：[桌面](https://www.deepcharts.com/helpcenter/article/option-levels-envelopes)、[Web](https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-envelopes)。

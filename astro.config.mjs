@@ -15,6 +15,7 @@ export default defineConfig({
     sidebar: [
       { label: '开始阅读', items: [
         { label: '阅读路线', slug: 'generated/guides/00-start-here' },
+        { label: '做市商分析主线', slug: 'generated/guides/market-maker-framework' },
         { label: '通用配置词典', slug: 'generated/guides/00-common-settings' },
         { label: 'Web 平台操作', slug: 'generated/guides/web-platform' },
       ] },
@@ -28,6 +29,7 @@ export default defineConfig({
       { label: '来源与核验', items: [
         { label: '图像与媒体证据', slug: 'generated/research/evidence-and-media' },
         { label: '覆盖与未知项', slug: 'generated/research/coverage-and-unknowns' },
+        { label: '做市商指标来源复核', slug: 'generated/research/market-maker-source-review' },
       ] },
     ],
   })],

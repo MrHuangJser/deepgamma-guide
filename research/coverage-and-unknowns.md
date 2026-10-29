@@ -31,6 +31,7 @@
 | Profile Summary、Sizing、Strike grid | 同上 | 区分显示变换、数据聚合与统计量 |
 | 市场含义与数学 | [基础研究](market-foundations.md) | 23项OIC/Cboe/CME等一手来源 |
 | 教学布局、情景、单位、风险与复盘 | [组合流程](../guides/15-workflows-and-risk.md) | 原创研究方案，非经验证策略 |
+| 做市商阅读主线、库存与流量、目标对冲与新增订单、冲突处理 | [做市商分析](../guides/market-maker-framework.md)、[来源复核](market-maker-source-review.md) | 产品定义与教学推导分开；Cboe具体数据产品不等同DeepGamma供应合同 |
 
 ## 没有把哪些东西写成已知
 

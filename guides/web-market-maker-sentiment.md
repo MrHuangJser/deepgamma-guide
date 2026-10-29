@@ -37,6 +37,8 @@
 
 ## 环境与方向的组合阅读
 
+Regime可以作环境摘要，但不是已公开的“Summary Gex大于零就涂绿”公式。即使两者同屏，分类阈值与覆盖范围未完全披露，也不能要求每分钟一一相等。本页未公开Expiration/Carry控件或完整继承机制；比较前将这部分记为未知。与Pressure和Summary的冲突排查见[做市商分析主线](market-maker-framework.md)。
+
 | Regime | Direction | 教学性理解与下一观察 |
 |---|---|---|
 | 正 | Up / Up strong | 向上偏向存在，但若对冲倾向抑制波动，可能是较温和上行；检查上方结构位 |

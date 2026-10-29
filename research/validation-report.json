@@ -1,12 +1,12 @@
 {
   "checked_date": "2026-10-29",
-  "markdown_files_checked": 30,
-  "handbook_chapters": 27,
+  "markdown_files_checked": 34,
+  "handbook_chapters": 29,
   "individual_indicator_guides": 19,
-  "handbook_chapter_anchors_checked": 27,
-  "local_references_checked": 330,
+  "handbook_chapter_anchors_checked": 29,
+  "local_references_checked": 413,
   "broken_local_references": [],
-  "characters_in_chapter_sources": 116693,
+  "characters_in_chapter_sources": 130391,
   "checks": [
     "19 cross-version unique indicators mapped to individual guides",
     "14 desktop indicator guides plus a Web configuration supplement",

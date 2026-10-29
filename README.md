@@ -16,9 +16,10 @@
 
 1. [开始使用：数据、标的、添加指标、模板与布局](guides/00-start-here.md)
 2. [期权与期货基础：Greeks、持仓、做市商对冲、IV、基差与合约规格](research/market-foundations.md)
-3. [通用配置词典：期限、Carry、Subgraphs、Profile、Peak、Rolling与Summary](guides/00-common-settings.md)
-4. 按下表选择指标；Web使用者同时读[Web平台操作](guides/web-platform.md)和[14项指标跨版本详细配置](research/web-desktop-differences.md)。
-5. [组合使用、情景检验、ES映射、风险与回放复盘](guides/15-workflows-and-risk.md)
+3. [做市商分析主线：数据层级、净流与持仓、对冲算例、指标冲突](guides/market-maker-framework.md)
+4. [通用配置词典：期限、Carry、Subgraphs、Profile、Peak、Rolling与Summary](guides/00-common-settings.md)
+5. 按下表选择指标；Web使用者同时读[Web平台操作](guides/web-platform.md)和[14项指标跨版本详细配置](research/web-desktop-differences.md)。
+6. [组合使用、情景检验、ES映射、风险与回放复盘](guides/15-workflows-and-risk.md)
 
 连续阅读可打开[DeepGamma完整手册](DeepGamma完整手册.md)。它由分篇合并生成，修改维护以各篇为准。
 
@@ -60,6 +61,7 @@
 
 - [媒体识读与官方表述冲突清单](research/evidence-and-media.md)：哪些图被查看、视频画面支持什么、哪些说法不能直接照抄。
 - [功能覆盖及未公开问题](research/coverage-and-unknowns.md)：所有功能与指南映射、仍未能核实的公式和产品能力。
+- [做市商指标来源复核](research/market-maker-source-review.md)：此次审阅发现、Cboe数据规范及补充处理记录。
 - [桌面与产品资源清单](research/source-manifest.json)、[Web五项来源与识图清单](research/web-exclusive-sources.json)、[Web平台图像索引](assets/web-platform/manifest.json)、[Web媒体扫描](research/web-media-scan.json)。
 
 官方图片保存在assets下，联系表便于逐页核对；图片、品牌和演示视频权利归原权利人。本地副本用于本次学习研究，文中保留官方原始来源；这些素材不表示获得再发布授权。

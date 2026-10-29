@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parent.parent
 CHAPTERS = [
     "guides/00-start-here.md",
     "research/market-foundations.md",
+    "guides/market-maker-framework.md",
     "guides/00-common-settings.md",
     "guides/web-platform.md",
     *[str(p.relative_to(ROOT)) for p in sorted((ROOT / "guides").glob("[0-9][0-9]-*.md"))
@@ -23,6 +24,7 @@ CHAPTERS = [
     "guides/15-workflows-and-risk.md",
     "research/evidence-and-media.md",
     "research/coverage-and-unknowns.md",
+    "research/market-maker-source-review.md",
 ]
 LINK = re.compile(r"\]\(([^)\n]+)\)")
 
@@ -83,7 +85,13 @@ assert all("https://www.deepcharts.com/" in (ROOT / name).read_text() for name i
 book_text = (ROOT / "DeepGamma完整手册.md").read_text()
 book_anchors = set(re.findall(r'<a id="([^"]+)"', book_text))
 assert all(f"chapter-{n}" in book_anchors for n in range(1, len(CHAPTERS) + 1))
-files = sorted(ROOT.rglob("*.md"))
+# Validate canonical documents only; generated site routes and dependency READMEs
+# use different link roots and are not handbook sources.
+files = sorted([
+    *ROOT.glob("*.md"),
+    *(ROOT / "guides").glob("*.md"),
+    *(ROOT / "research").glob("*.md"),
+])
 for source in files:
     text = source.read_text()
     for match in LINK.finditer(text):

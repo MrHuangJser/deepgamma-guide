@@ -5,31 +5,33 @@
 ## 阅读目录
 1. [从哪里开始：产品、数据与图表配置](#chapter-1)
 2. [DeepGamma 所需的期权与期货基础：经一手资料核验的研究底稿](#chapter-2)
-3. [通用参数词典：先统一口径，再调整画面](#chapter-3)
-4. [DeepGamma Web 平台配置与使用指南](#chapter-4)
-5. [Option Volume：期权成交量](#chapter-5)
-6. [Option Delta：方向流量、客户视角与做市商视角](#chapter-6)
-7. [Option Big Flows：大额权利金交易与开平仓](#chapter-7)
-8. [Option Profile：原始量、Gamma模型与日终持仓的剖面](#chapter-8)
-9. [Option GEX Profile：做市商Gamma的行权价分布](#chapter-9)
-10. [Option GEX Profile Hedging：价格移动时的对冲放大与衰减](#chapter-10)
-11. [Option Levels：把统计峰提炼为少量水平位](#chapter-11)
-12. [Option Levels Advanced：做市商与实时持仓关键位](#chapter-12)
-13. [Option Envelopes：Zero、Major、Minor Gamma动态参考线](#chapter-13)
-14. [Option Envelopes Advanced：OI-R口径的动态Gamma参考](#chapter-14)
-15. [Option Summary：传统Gamma模型的总量时间序列](#chapter-15)
-16. [Option Summary Gex：做市商总Gamma、Delta与净流](#chapter-16)
-17. [Option Expected Move：隐含波动范围与超预期移动](#chapter-17)
-18. [Option Gex Heatmap：按价格与时间观察风险区](#chapter-18)
-19. [DeepGamma Web 与桌面版：14 项共同指标的配置差异及补充指南](#chapter-19)
-20. [Option Net Flow：累计期权净流配置与使用](#chapter-20)
-21. [Option Dynamic Walls：动态墙配置与使用](#chapter-21)
-22. [Option Market Maker Pressure：做市商压力配置与使用](#chapter-22)
-23. [Option Market Maker Sentiment：环境、方向与波幅状态](#chapter-23)
-24. [Option Exhaustion Detector：衰竭检测配置与使用](#chapter-24)
-25. [把DeepGamma用于交易研究：布局、场景、期货映射与复盘](#chapter-25)
-26. [DeepGamma图像和多媒体识读记录](#chapter-26)
-27. [DeepGamma功能覆盖与证据边界](#chapter-27)
+3. [做市商分析主线：从数据、持仓到对冲与价格验证](#chapter-3)
+4. [通用参数词典：先统一口径，再调整画面](#chapter-4)
+5. [DeepGamma Web 平台配置与使用指南](#chapter-5)
+6. [Option Volume：期权成交量](#chapter-6)
+7. [Option Delta：方向流量、客户视角与做市商视角](#chapter-7)
+8. [Option Big Flows：大额权利金交易与开平仓](#chapter-8)
+9. [Option Profile：原始量、Gamma模型与日终持仓的剖面](#chapter-9)
+10. [Option GEX Profile：做市商Gamma的行权价分布](#chapter-10)
+11. [Option GEX Profile Hedging：价格移动时的对冲放大与衰减](#chapter-11)
+12. [Option Levels：把统计峰提炼为少量水平位](#chapter-12)
+13. [Option Levels Advanced：做市商与实时持仓关键位](#chapter-13)
+14. [Option Envelopes：Zero、Major、Minor Gamma动态参考线](#chapter-14)
+15. [Option Envelopes Advanced：OI-R口径的动态Gamma参考](#chapter-15)
+16. [Option Summary：传统Gamma模型的总量时间序列](#chapter-16)
+17. [Option Summary Gex：做市商总Gamma、Delta与净流](#chapter-17)
+18. [Option Expected Move：隐含波动范围与超预期移动](#chapter-18)
+19. [Option Gex Heatmap：按价格与时间观察风险区](#chapter-19)
+20. [DeepGamma Web 与桌面版：14 项共同指标的配置差异及补充指南](#chapter-20)
+21. [Option Net Flow：累计期权净流配置与使用](#chapter-21)
+22. [Option Dynamic Walls：动态墙配置与使用](#chapter-22)
+23. [Option Market Maker Pressure：做市商压力配置与使用](#chapter-23)
+24. [Option Market Maker Sentiment：环境、方向与波幅状态](#chapter-24)
+25. [Option Exhaustion Detector：衰竭检测配置与使用](#chapter-25)
+26. [把DeepGamma用于交易研究：布局、场景、期货映射与复盘](#chapter-26)
+27. [DeepGamma图像和多媒体识读记录](#chapter-27)
+28. [DeepGamma功能覆盖与证据边界](#chapter-28)
+29. [做市商指标的独立来源复核](#chapter-29)
 
 
 <a id="chapter-1"></a>
@@ -39,6 +41,8 @@
 ## 从哪里开始：产品、数据与图表配置
 
 核验日期：2026-10-29。本文区分公开文档证据、截图观察与研究者建议。所有价格和交易情景例子均为假设，不是当日行情，也没有经过盈利回测。
+
+若主要研究SPX／ES日内交易，建议先完成本篇的基础设置，再读[做市商分析主线](guides/market-maker-framework.md)：从Summary与Profile建立环境和位置，再学习Hedging、Pressure、Sentiment，避免一开始堆满全部指标。
 
 ### 1. DeepGamma 到底提供什么
 
@@ -277,6 +281,8 @@ OI 是一个期权系列尚未平掉的合约数。一份未平仓合约同时�
 
 **自拟例子**：某行权价早盘 OI=20,000，盘中累计 Volume=50,000。不能计算“新 OI=70,000”；这 50,000 张可能包含大量日内反复换手和平仓，也可能包含价差组合的一个腿。OI 的方向归属与交易商身份仍然未知。
 
+**数据来源补充**：Cboe Open-Close的公开盘中产品与日终产品提供的字段不同，不能因为有参与者分类流就假定有实时清算OI。具体规范及其与DeepGamma之间不能直接画等号的原因，见[来源复核](research/market-maker-source-review.md)。
+
 #### 4.2 0DTE 是剩余期限，不代表合约今天才新上市
 
 0DTE 指在当个交易日到期的期权；该系列可能在更早已经挂牌。到期附近的平值期权对标的移动敏感，交易者用于短期对冲、事件或日内观点，但剩余反应时间极短。[Cboe：0DTE Trading Resources](https://www.cboe.com/tradable-products/0dte/)
@@ -491,6 +497,145 @@ CME 的 Micro E-mini 期权与 E-mini 期权也存在行权、结算安排差异
 
 <a id="chapter-3"></a>
 
+源文件：[guides/market-maker-framework.md](guides/market-maker-framework.md)
+
+## 做市商分析主线：从数据、持仓到对冲与价格验证
+
+核验日期：2026-10-29。本篇把分散的指标串成学习与研究流程；排序、配置组合和数字算例是研究者设计，不是官方交易系统或胜率排名。若主要研究 SPX／ES 日内行情，建议先读本篇，再查各指标参数。
+
+### 1. 做市商视角为什么值得优先学习
+
+期权成交量告诉你活动规模；参与者分类有助于区分谁在买卖；带符号头寸与 Greeks 则帮助分析这些活动如何影响风险。做市商若调整对冲，可能给标的带来买卖需求。分析价值来自这条机制链，不能由“MM”“Advanced”这样的名称推导预测优势。
+
+Cboe 的研究强调买卖净额、Gamma 的符号与规模，并指出大量交易可以相互抵消。因此，学习重点应是净风险及其变化，而不是寻找最大的成交数字。[Cboe：SPX 0DTE 与做市商对冲研究](https://www.cboe.com/insights/posts/volatility-insights-evaluating-the-market-impact-of-spx-0-dte-options/)
+
+对于期权组合交易，还需要研究 IV、期限结构、Theta、执行价格与结算制度；做市商指标并不能独自回答某张期权是否便宜。相关基础见[期权与期货基础](research/market-foundations.md)。
+
+### 2. 一条不能跳步的数据链
+
+| 层次 | 能提供的信息 | 在 DeepGamma 中如何辨认 | 不能直接推出什么 |
+|---|---|---|---|
+| 参与者分类活动 | 某类主体的买卖与交易量 | 官方称基于 CBOE 数据的 MM 流量源 | 该主体完整跨市场持仓、最终交易意图 |
+| 头寸与风险聚合 | 净数量、Delta、Gamma，受期限和结转范围影响 | GEX／DEX MM、OI-R 等不同源 | 已发生的期货成交 |
+| 平台派生结果 | 压力序列、环境分类、放大／衰减类别 | Pressure、Sentiment、Hedging | 校准后的上涨概率或确定执行数量 |
+| 实际市场反应 | 价格是否突破、成交是否延续、流动性是否变化 | 结合对应执行市场的价格与订单流观察 | 这些交易一定由某个做市商发起 |
+
+官方把 GEX Profile 的 MM 源描述为真实做市商数据，同时提供净额、C/P、DEX、净流及 OI-R 模式。模式之间统计对象不同，不能仅因都来自 CBOE 就互换。[官方 GEX Profile 数据源](https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-gex-profile-deepgamma-web)
+
+**来源真实与计算完整是两个问题。** 公开资料未充分披露 DeepGamma 使用的具体数据产品、初始库存、完整单位及净额流程。Cboe 自身可获取的交易信息，也不能直接等同某个供应商获授权接收的全部字段。关于公开数据文件能确认什么，见[本次来源复核](research/market-maker-source-review.md)。
+
+### 3. 必须分开的四种量
+
+| 类型 | 所回答的问题 | 相关工具 | 使用时最关键的区别 |
+|---|---|---|---|
+| 期间交易净流 | 这段时间增加或减少了什么活动？ | Delta 的 MM 源、Market Maker Net Flow | 日内净买入可能是在平此前空仓 |
+| 当前范围内的风险 | 所选头寸在当前估值下有多少 Delta／Gamma？ | GEX Profile、Summary Gex 的对应源 | Carry、期限及估值时点影响含义，未必覆盖全簿 |
+| 条件对冲需求 | 若价格变化或新增交易被中性化，目标对冲如何变化？ | Hedging，以及对 GEX／DEX 的机制解释 | 目标头寸与待执行订单不同 |
+| 实际执行流 | 市场中真正成交了多少？ | 对应期货／现货市场的成交数据 | DeepGamma 的 MM 风险读数不能代替它 |
+
+Pressure 是单独的派生压力序列。官方将其类比为期权数据构造的累计指标，但没有给出可与 DEX 或 Net Flow 直接相等的公式。[官方 Pressure 说明](https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-market-maker-pressure-deepgamma-web)
+
+#### 算例：净买入与负 Gamma 可以同时存在
+
+仅考虑同一普通 Call 期权系列，假设开盘做市商净空 100 张，随后买入 30 张、卖出 10 张，忽略到期、行权与其他调整：
+
+```text
+日内净数量变化 = +30 - 10 = +20 张
+当前净头寸     = -100 + 20 = -80 张
+```
+
+日内活动偏买，当前头寸仍为净空。以正的长仓单位 Gamma 加权，日内买卖贡献可以为正，含初始库存的当前 Gamma 仍可为负。若这段交易的 Call Delta 近似不变，净 Delta 流也可以为正；因此正的 MM 净流不必与负的风险汇总矛盾。上述库存恒等式不是 DeepGamma 的 Carry 或 OI-R 公式。
+
+同理，`0DTE` 只说明今天到期，不说明今天才开仓，不能因此自动忽略隔夜结转。[0DTE 与持仓基础](research/market-foundations.md)
+
+#### 算例：目标对冲已经持有，就不需要再下一遍单
+
+假设期权簿 Delta 为 −1,000 美元／SPX 点，ES 每点 50 美元，所选月份满足局部近似 `dF/dS≈1`。只用 ES 对冲时，目标为多 20 张。若已有多 20 张，当前新增需求为零；若已有多 15 张，才需要补买约 5 张。
+
+若组合 Gamma 为 +200 美元／点²，SPX 再涨 1 点、其他输入暂不变，期权 Delta 变为约 −800，目标转为多 16 张。从已有多 20 张出发，调整是卖 4 张。由此可以同时出现“期权 Delta 为负、期货仍净多、最新调整为卖出”。规格与单位推导见[Summary Gex 算例](guides/12-option-summary-gex.md)。
+
+这是教学账本，平台显示的 M、Contracts 或 Premium 不能未经单位确认直接代入。
+
+### 4. 先学哪些指标，怎样配置
+
+以下是学习顺序。初期同时启用前两组即可，掌握后再增加其余组件；多个同源指标一致不会增加独立样本数。
+
+| 顺序 | 组件与建议配置 | 本阶段要学会什么 |
+|---|---|---|
+| 1：环境 | Summary Gex 选择 Gex (Market Maker)，明确 0DTE，手动记录 Carry | 读符号、大小、变化，区别负值收敛与转正 |
+| 2：位置 | GEX Profile 同源、同期限、同 Carry；先显示 1 个 Profile | 把总量拆到行权价；必要时另开 C/P 模式查看抵消 |
+| 3：局部反应 | 添加 Hedging Profile，保留 Amplifying／Attenuating／Neutral | 把颜色解释为对既有价格方向的条件反应 |
+| 4：盘中路径 | Web 加 Pressure：独立副图、EMA15、第二均线先关 | 分开记录零轴位置、斜率、相对均线位置 |
+| 5：状态摘要 | Web 加 Sentiment，Regime 与 Direction 分别用 Strip | 分清 Gamma 环境、方向类别、波幅提示与空白 |
+| 6：复核工具 | 需要时选 Heatmap、Levels Advanced 或 Delta MM 源 | 分别补时间轨迹、少量参考位或新增活动信息 |
+
+参数逐项见 [Summary Gex](guides/12-option-summary-gex.md)、[GEX Profile](guides/05-option-gex-profile.md)、[Hedging](guides/06-option-gex-profile-hedging.md)、[Pressure](guides/web-market-maker-pressure.md)、[Sentiment](guides/web-market-maker-sentiment.md)及[Web 配置差异](research/web-desktop-differences.md)。
+
+**必须对齐的是有公开控件的实例。** 不能假定 Pressure、Sentiment、Hedging 都继承了同一个 0DTE／Carry 范围；它们的公开专页没有给出足够信息来确认完整继承关系。没有字段时记录“模型范围未公开”，不要为了凑齐一致性自行补造设置。
+
+同时保留一个 All expirations 的背景图有助于跨期观察；0DTE 属于 All 的一部分，不是两份独立证据。Advanced Envelopes 的默认是 OI-R 加权模式，也不应仅凭 Advanced 名称列入 MM 净 Gamma 组。
+
+### 5. Gamma 的变化为何不等于新开仓
+
+组合风险不仅由数量决定，还由每张合约当时的敏感度决定。OIC 说明 Gamma 会随价格和剩余期限变化，临近到期的平值区域尤其敏感。[OIC：Gamma](https://www.optionseducation.org/advancedconcepts/gamma)
+
+下面是忽略乘数的教学算例：同一参与者持有 100 张，单位 Gamma 从 0.010 变成 0.015，即使没有新交易，总 Gamma 也从 1.0 变成 1.5。反之，新买入正 Gamma 合约，也可能不足以抵消其他头寸的负 Gamma 或估值变化。
+
+这对两个常见操作有直接影响：
+
+- **Rolling 截面相减**：可以记录风险变动，但不能把差值全部称为新开仓。
+- **累计 Net MM x gamma**：首先是交易流按 Greek 加权的累计口径；没有起始持仓、历史头寸当前重估等信息，不能直接当成 Summary Gex 的当前净 Gamma。官方 Delta 专页定义了加权模式，但未充分解释历史权重是否重估。[官方 Delta 数据模式](https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-delta-deepgamma-web)
+
+对冲变化还可能受到 IV、时间及新增持仓影响。这里是通用风险分析，不意味着 Hedging／Pressure 已经公开输出了 Vanna 或 Charm。
+
+### 6. 指标冲突时，先定位冲突属于哪一层
+
+| 看到的组合 | 可能成立的解释 | 下一步应检查什么 |
+|---|---|---|
+| Summary 为正，现价附近有负 GEX 档 | 总体净额与局部贡献不同 | 负档规模、距离、期限；不要把总体符号贴给每个档 |
+| 0DTE 为负，All 为正 | 较远期限的正贡献抵消了当日负贡献 | 同时间、同源、同 Carry；不要对嵌套范围多数表决 |
+| MM 净流为正，含结转 GEX 仍负 | 买入可能只减少原有空仓；流与存量不同 | 初始库存与 Carry，另查 Greeks 是否变动 |
+| Pressure 上升，Sentiment Direction 向下或空白 | 连续序列与分类状态定义不同 | 数值时点、更新、显示状态；内部模型未公开时不强行解释 |
+| Summary 为正，局部 Hedging 放大 | 聚合范围不同，模型也可能使用不同风险因素 | 先排设置与时间差，不能仅凭两者颜色认定数据错误 |
+| 热图色块消失，但 Profile 还有该档 | 归一化、Cutoff 或显示范围造成过滤 | 查看绝对读数和显示配置，不能直接判为全部平仓 |
+
+**无法解释的差异可以保留为未知。** 记录原始读数比编造“主力诱多”更有用。逐项说明见[热图](guides/14-option-gex-heatmap.md)与[组合排错](guides/15-workflows-and-risk.md)。
+
+行权价剖面还要与假设价格扫描区分：在当前现价下，6000 行权价的 Gamma 贡献，不等于“当现价变成 6000 时整个组合的 Gamma”。所以不能从两根正负柱之间直接画出全市场 Zero Gamma；涉及全簿场景再定价与求根的细节，产品未公开就保持未知。[Zero Gamma 的数学边界](research/market-foundations.md)
+
+### 7. 一个完整的观察例子
+
+以下数字仅为教学，不设置通用阈值。
+
+| 时间 | 当时可见事实 | 可记录的假说与处理 |
+|---|---|---|
+| 09:45 | SPX 5995；同口径 Summary 为负；6000 附近 Hedging 为放大；Pressure 仍在零下但抬升 | 上行若发生，可能处于放大环境；尚未形成突破，负 Pressure 余额也不等于最近正在恶化 |
+| 09:50 | 价格到 6003；Pressure 最新数据继续抬升 | 可登记上行延续候选；若研究 ES，先核同步基差，不把 SPX 6000 直接当 ES 下单价 |
+| 09:55 | 价格回到 5997；Pressure 新读数转为下降 | 原突破解释减弱；保留失败样本，不因仍负 Gamma 就宣称“必然再次上涨” |
+| 10:00 | Sentiment 方向为空白 | 记录缺少分类支持；不沿用上一条 Up，也不把空白记为 Down |
+
+“突破后站稳”的判定、观察时间和失效价必须在看后续行情前写下。价格确认来自市场行为，不是要求五个同源图标同时变绿。正 Gamma 环境同样可能被更强的外部流突破；相同 Gamma 规模在不同流动性下也未必造成相同价格影响。单位和时段不明时，不把 GEX 数字直接除以 ES 成交量来计算所谓对冲占比。
+
+### 8. 做市商专题复盘记录
+
+在[通用复盘表](guides/15-workflows-and-risk.md)上补充以下字段即可：
+
+```text
+数据身份：客户／MM；直接分类源／取反展示／平台派生
+统计类型：逐柱流／累计流／当前风险截面／分类状态
+范围：期限、Carry、行权价；未公开的继承关系单列
+实际数值：符号、绝对大小、最近增量；不只记颜色
+对冲解释：目标头寸还是增量；既有对冲是否未知
+同步情况：每个读数的数据时间；执行标的与合约月份
+冲突：全局vs局部、存量vs流量，或尚未解释
+验证：原假说、事先写下的确认/失效条件、后续结果
+```
+
+研究指标是否有用时，应比较同一套价格规则“加入 MM 条件前后”的样本表现，记录收益以外的回撤、错过的机会、费用与滑点；同时保留没有触发和判断失败的时段。公开说明与演示截图不足以得出某指标更准或增加几个指标就有更高胜率的结论。
+
+
+<a id="chapter-4"></a>
+
 源文件：[guides/00-common-settings.md](guides/00-common-settings.md)
 
 ## 通用参数词典：先统一口径，再调整画面
@@ -525,6 +670,8 @@ Expiration不会把5分钟K线变成日线。切换它改变纳入的期权合�
 官方将其解释为是否纳入前期结转/持仓，关闭偏当前交易日，开启偏带入存量。**不要手工把开启结果再加上一份昨天OI**，否则可能重复计入。不同数据源下的种子、结转时点、到期剔除和负仓位处理未公开。
 
 两个图的Carry不同，峰值和总量可以不同；这不是画线错误。做日内新增流研究可用关，做包含前期风险的情景研究可用开；这些是研究用途选择，并非哪一个永远更准。桌面Envelopes Advanced默认开，其余不少专页写关，截图有时已被改为开；Web多项默认开。
+
+教学例：同一系列期初净空100张，盘中买30、卖10，则净交易为+20张，当前净仓仍为−80张。日内买入贡献与含结转风险可以反号；买入也可能是平空。这里是净头寸算术，不是OI总量公式，也不证明平台恰按此法计算Carry。关闭Carry后的风险仍可能随Greeks重新估值，不能无条件等同于逐笔Greek加权值的历史累计。完整区别见[做市商分析主线](guides/market-maker-framework.md)。
 
 ### Number of Strikes、Number of levels、Number of profile
 
@@ -593,7 +740,7 @@ Summary：净值及Call/Put分项依当前Data source计算。GEX Profile明确�
 每次截图旁写：版本／日期／数据时间／时区／标的／期货月份／价格模式／Data source／Expiration／Carry／Strikes／图表周期／Auto Color／单位。用模板保存后重新打开核对一次。跨指标不一致时，先排查这张记录，再讨论市场解释。
 
 
-<a id="chapter-4"></a>
+<a id="chapter-5"></a>
 
 源文件：[guides/web-platform.md](guides/web-platform.md)
 
@@ -774,7 +921,7 @@ HotKey Settings 中点击 **Record** 录入自己的键，**Clear** 清除，截
 主要一手来源：[平台总览](https://www.deepcharts.com/helpcenter/deepgamma-web/article/deepgamma-web-platform-overview)、[入门目录](https://www.deepcharts.com/helpcenter/deepgamma-web/getting-started)、[指标目录](https://www.deepcharts.com/helpcenter/deepgamma-web/indicators)、[免费演示页](https://www.deepcharts.com/gamma-demo)。
 
 
-<a id="chapter-5"></a>
+<a id="chapter-6"></a>
 
 源文件：[guides/01-option-volume.md](guides/01-option-volume.md)
 
@@ -829,7 +976,7 @@ Future contracts不表示期货市场已经成交这些张数；公开文档未�
 已查看本页总览、参数及三个Subgraphs截图。截图显示Total Hidden、Call/Put StackedBars，参数示例为Stacked；这些是可见状态，默认值冲突已在表中保留。完整图见[图像联系表](assets/contact-sheets/option-volume.jpg)。
 
 
-<a id="chapter-6"></a>
+<a id="chapter-7"></a>
 
 源文件：[guides/02-option-delta.md](guides/02-option-delta.md)
 
@@ -881,6 +1028,8 @@ Future contracts不表示期货市场已经成交这些张数；公开文档未�
 
 ### 配置建议与组合
 
+Web的`Net MM x gamma`表示MM交易活动的Gamma加权口径。即使打开时间累计，也不能直接把它当作Summary Gex当前净Gamma：期初持仓、既有仓位按当前价格/IV/时间重估，以及历史权重是否重估，都会影响二者关系。Delta加权累计同样不自动等于当前完整DEX；具体对照见[做市商分析主线](guides/market-maker-framework.md)。
+
 学习用Revert关、Cumulative关，核对单根流量与大额交易Tooltip。熟悉符号后另开第二个实例做时间累计，名称标清Customer-Cum；不要把两条取反曲线当两份证据。
 
 结合Levels定位发生在哪里、Summary Gex判断风险反应环境。Delta流量是“新增方向活动”；Gamma是“方向风险对价格变化有多敏感”，两者不能替代。若转换Future contracts，先确认所对应的是ES还是其他规格，再考虑与期货比较。
@@ -890,7 +1039,7 @@ Future contracts不表示期货市场已经成交这些张数；公开文档未�
 已检查参数截图及Revert/Cumulative四种对比图。可以直接看到Revert开后柱符号翻转、Cumulative开后逐柱变为连续累积轮廓；截图无法证明实际对冲时刻或精确公式。[图像联系表](assets/contact-sheets/option-delta.jpg)。缺数据先查SPX、订阅和时间，Web还需检查其八种Value与是否使用Cumulative sum，见差异表。
 
 
-<a id="chapter-7"></a>
+<a id="chapter-8"></a>
 
 源文件：[guides/03-option-big-flows.md](guides/03-option-big-flows.md)
 
@@ -961,7 +1110,7 @@ Overlap过滤可减少组合策略噪声，但不能证明被隐藏交易净Delt
 已识读总览、Call/Put设置、四个买开/卖开例子、Size和组合图。[图像联系表](assets/contact-sheets/option-big-flows.jpg)。请以官方图为界面证据，本文教学数字均为自拟，不把样例行情当历史交易验证。
 
 
-<a id="chapter-8"></a>
+<a id="chapter-9"></a>
 
 源文件：[guides/04-option-profile.md](guides/04-option-profile.md)
 
@@ -1031,7 +1180,7 @@ M15线显示15分钟前的截面。假设6020当前横条比M15参照明显增�
 已检查四种数据源展示、Stack示例、峰线、Rolling与Summary截图。[完整联系表](assets/contact-sheets/option-profile-deepchart.jpg)。EOD剖面很小或看似空白时，先核期限、Carry、坐标范围和缩放；不能用放大画面“修复”缺失数据，也不能把Disputed当成交所错误提示。
 
 
-<a id="chapter-9"></a>
+<a id="chapter-10"></a>
 
 源文件：[guides/05-option-gex-profile.md](guides/05-option-gex-profile.md)
 
@@ -1084,6 +1233,8 @@ Background/Text、Disputed、Plot Settings字段逐项见[通用参数词典](gu
 
 ### Rolling、单位与失效条件
 
+剖面按**行权价**分组：当前现价下6000行权价的贡献，不等于“假设现价变成6000时整个组合的Gamma”。将全簿按假设价格重新估值是另一种计算。因此两个异号柱之间的位置不能直接叫全市场Zero Gamma，单档符号也不能代表整体环境。公式边界见[市场基础](research/market-foundations.md)，冲突排查见[做市商分析主线](guides/market-maker-framework.md)。
+
 M5是五分钟前的风险截面，变动可能来自新交易、价格移动导致Gamma变化、IV变化、到期时间缩短和筛选变化。不能把全部变化归为“机构新开仓”。同样，切换窗口改变横条视觉比例，不能用像素长度替代读数。
 
 失效/弱解释环境包括重大消息、离散跳价、换月基差误配、数据延迟以及净头寸在其他市场被对冲。若与Heatmap/Summary冲突，先检查同源同期限同Carry同时间，再判断是空间与总量差异还是数据问题。
@@ -1093,7 +1244,7 @@ M5是五分钟前的风险截面，变动可能来自新交易、价格移动导
 已识读净/拆分图、General、Background/Text、Plot、Peak、Rolling、Summary。[本页图像联系表](assets/contact-sheets/option-gex-profile.jpg)。图中GEX (MM)与GEX (MM C/P)标签能区分模式；绿色紫色的左右方向不能跨模式固定。
 
 
-<a id="chapter-10"></a>
+<a id="chapter-11"></a>
 
 源文件：[guides/06-option-gex-profile-hedging.md](guides/06-option-gex-profile-hedging.md)
 
@@ -1160,7 +1311,7 @@ Summary Gex先判断整体Gamma环境；GEX Profile显示集中区；Levels Adva
 已查看总览、三色设置、Plot及综合图。[图像联系表](assets/contact-sheets/option-gex-profile-hedging-de.jpg)。截图展示上下多档绿/紫，支持其是“分价位反应剖面”；不能通过截图推断具体买卖单、精确阈值或历史命中率。
 
 
-<a id="chapter-11"></a>
+<a id="chapter-12"></a>
 
 源文件：[guides/07-option-levels.md](guides/07-option-levels.md)
 
@@ -1221,7 +1372,7 @@ Till interaction是画线延伸规则，不是止损、自动成交或支撑失�
 已检查默认参数图、三角数量放大图和Plot图；确认线色、三角方向和排名，而非推测箭头含义。[联系表](assets/contact-sheets/option-levels.jpg)。线太多先查sessions和levels，黄线不出现先查坐标范围、计算数据及是否有可用翻转点；不能擅造“黄线等于零价格”。
 
 
-<a id="chapter-12"></a>
+<a id="chapter-13"></a>
 
 源文件：[guides/08-option-levels-advanced.md](guides/08-option-levels-advanced.md)
 
@@ -1284,7 +1435,7 @@ OI-R是平台统计，不能由“2卖1买”这个简化例子推出全市场OI
 已看General、Plot、三角方向和综合配置图，能直接辨认GEX (MM)标签与上下向三角。[联系表](assets/contact-sheets/option-levels-advanced.jpg)。官方称它相对传统模型更可靠是产品主张，本次没有独立逐笔数据或回测证明其预测优势，不将其转写为统计结论。
 
 
-<a id="chapter-13"></a>
+<a id="chapter-14"></a>
 
 源文件：[guides/09-option-envelopes.md](guides/09-option-envelopes.md)
 
@@ -1355,7 +1506,7 @@ Zero Gamma：官方将它解释为Gamma由正转负的参考分界。Major Gamma
 已查看总览、General与三个Subgraph截图。[图像联系表](assets/contact-sheets/option-levels-envelopes.jpg)。图能确认三色参考线随时间变动，不能证明模型能预知支撑或存在固定命中率。
 
 
-<a id="chapter-14"></a>
+<a id="chapter-15"></a>
 
 源文件：[guides/10-option-envelopes-advanced.md](guides/10-option-envelopes-advanced.md)
 
@@ -1411,7 +1562,7 @@ Zero Gamma：官方将它解释为Gamma由正转负的参考分界。Major Gamma
 已看General（0DTE、Carry开）、三条颜色设置及运行图，识别三线阶梯迁移。[联系表](assets/contact-sheets/option-envelopes-advanced-deepchart.jpg)。图能证实显示字段与示例状态，不能验证实时OI的完整重建，也不能证明某条线提前预测了拐点。
 
 
-<a id="chapter-15"></a>
+<a id="chapter-16"></a>
 
 源文件：[guides/11-option-summary.md](guides/11-option-summary.md)
 
@@ -1469,7 +1620,7 @@ Zero Gamma：官方将它解释为Gamma由正转负的参考分界。Major Gamma
 已看General、Marker、Subgraphs及总览。[图像联系表](assets/contact-sheets/option-summary.jpg)。某截图在负值区出现绿色柱，可能与示例配色/斜率设置有关；默认判读应以所选Auto Color及实际值确认。
 
 
-<a id="chapter-16"></a>
+<a id="chapter-17"></a>
 
 源文件：[guides/12-option-summary-gex.md](guides/12-option-summary-gex.md)
 
@@ -1504,9 +1655,15 @@ General的Expiration默认All，可0DTE、≤1/7/31/91d；Carry默认关。Marke
 
 ### 假设例子：DEX与GEX并不矛盾
 
-假设某组合做市商总Delta是−1,000美元/点，但Gamma是+200美元/点²；同一时点核对ES月份，并近似 `dF_ES/dS_SPX≈1`。若要立即中性化Delta，约需买20张ES（每点50美元），而若标的再涨1点，Gamma使期权Delta约增加200美元/点，中性化时可能相应卖4张ES。这是“先买”与“涨后卖”同时合理的例子。
+假设某组合做市商期权簿Delta是−1,000美元/点，但Gamma是+200美元/点²；同一时点核对ES月份，并近似 `dF_ES/dS_SPX≈1`。若只用ES中性化Delta，目标对冲头寸约为多20张ES（每点50美元）。**目标持仓不等于还需买入的数量**：若已有多20张，不需新增；若已有多15张，才需补买5张。
+
+若标的再涨1点，Gamma使期权Delta约增加200美元/点，目标对冲变成多16张。从已有多20张出发，调整是卖4张；不是看到期权Delta仍负就继续买入。真实已有对冲及其他产品风险未知时，DEX不能直接给出下一笔订单。
 
 因此DEX回答当前方向风险，GEX回答价格变化时风险如何变。教学推导忽略IV/时间/其他仓位，不能把产品显示数值直接当这些美元单位。
+
+### Carry与净流：净买入不等于整体转多
+
+假设同一系列期初净空100张，盘中买30、卖10，净交易为+20张，但当前仍净空80张。按正的长仓单位Gamma加权，日内交易贡献可以为正，包含期初库存的当前Gamma仍为负。关闭Carry与开启Carry研究的范围不同，不能把不含结转的读数称为做市商完整库存。这个恒等式不复刻平台内部Carry算法，详见[做市商分析主线](guides/market-maker-framework.md)。
 
 ### 场景：0DTE与All方向相反
 
@@ -1525,7 +1682,7 @@ General的Expiration默认All，可0DTE、≤1/7/31/91d；Carry默认关。Marke
 已查看General默认、Marker、Regime Subgraph和运行图。[联系表](assets/contact-sheets/option-summary-gex.jpg)。正文说Bars默认，但另有Line显示示例；显示曲线不说明数据已变成平滑平均。负值向上走仍是负值，先读坐标再读颜色。
 
 
-<a id="chapter-17"></a>
+<a id="chapter-18"></a>
 
 源文件：[guides/13-option-expected-move.md](guides/13-option-expected-move.md)
 
@@ -1591,7 +1748,7 @@ Web把Average称Normal，不能仅凭改名断言算法完全相同。该指标�
 已识读总览、参数、Range/上下界设置及示例图。[联系表](assets/contact-sheets/option-expected-move.jpg)。图支持动态带与独立边界可见性，不能确定IV精确源或计算时钟。
 
 
-<a id="chapter-18"></a>
+<a id="chapter-19"></a>
 
 源文件：[guides/14-option-gex-heatmap.md](guides/14-option-gex-heatmap.md)
 
@@ -1668,7 +1825,7 @@ Web默认为Std.Dev=0.5、Cutoff=7、Opacity=75、Extend far right开，且Carry
 看不到色块先查SPX、时间、订阅、Strikes、期限、阈值和刷新。已看General、强度页、模板按钮和运行图。[联系表](assets/contact-sheets/option-gex-heatmap.jpg)。截图只证明显示功能，不证明每一段色块都能稳定产生支撑或阻力。
 
 
-<a id="chapter-19"></a>
+<a id="chapter-20"></a>
 
 源文件：[research/web-desktop-differences.md](research/web-desktop-differences.md)
 
@@ -1800,6 +1957,8 @@ put  delta贡献 =  80 × (-0.40) = -32
 4. 同一组实例保持Expiration一致。把Net contracts图与delta加权图直接比较绝对高度，没有意义。
 
 Series默认绿/紫、Bars、Solid、宽5、Auto color=+/-；名称及其背景关、值及其背景开、Use chart color关、Show line关。可改Line显示累计走势。累计曲线上升只说明所选统计的新增贡献为正，不意味着每笔都是call买开，更不是已确认的期货买单。
+
+**累计流不自动等于当前风险**：`Net MM x gamma`的历史累计与Summary Gex的MM GEX，可能在初始库存和重估方式上不同；官方未充分公开历史Greek权重是否重算，不能要求两者数值相等。`Net MM x delta`也不自动给出当前DEX或待执行ES订单。算例见[做市商分析主线](guides/market-maker-framework.md)。
 
 ### 5. Option Envelopes：Carry 与价格位置定义的差异
 
@@ -2006,7 +2165,7 @@ WebExpiration有Default及0DTE、<=1/7/31/91d、All；桌面还列<=2—6d。Val
 尚未公开/未验证：x delta、x gamma显示单位的全部缩放；MM Value与Revert的联动；Flip百分比确切公式；各种非gamma源下“gamma flip”的严格定义；Carry在全部数据源中的精确合成规则；桌面正文未列字段是否存在于实际版本。研究可据已公开控件开展，但不应把上述空白包装成确定算法。
 
 
-<a id="chapter-20"></a>
+<a id="chapter-21"></a>
 
 源文件：[guides/web-option-net-flow.md](guides/web-option-net-flow.md)
 
@@ -2081,7 +2240,7 @@ Revert 只是反转展示的视角。客户正 Delta 的对手若是做市商，
 将它与 Option Volume 配合可区分“总活动大”与“净流倾向明显”；与 Option Delta 配合可比较不同风险权重；与 GEX Profile 配合可把时序变化放回行权价分布。它们都不是独立完整的订单意图调查，不能证明某个机构的最终观点。净流计算细节、会话重置边界、历史修订和单位缩放仍属于公开资料未充分说明的项目。
 
 
-<a id="chapter-21"></a>
+<a id="chapter-22"></a>
 
 源文件：[guides/web-dynamic-walls.md](guides/web-dynamic-walls.md)
 
@@ -2151,7 +2310,7 @@ Revert 只是反转展示的视角。客户正 Delta 的对手若是做市商，
 公开资料没有算法、训练方法、分位数、DTE 过滤、延迟明细或历史修订规则。本文只确认公开界面和官方所述用途；首次使用应在回放中检查带何时改变，而不是用收盘后的整段带去解释过去的进场机会。
 
 
-<a id="chapter-22"></a>
+<a id="chapter-23"></a>
 
 源文件：[guides/web-market-maker-pressure.md](guides/web-market-maker-pressure.md)
 
@@ -2207,6 +2366,8 @@ Revert 只是反转展示的视角。客户正 Delta 的对手若是做市商，
 
 ### 怎样读：水平、斜率、变化率分别记录
 
+Pressure不是DEX存量，也不是Summary Gex的时间差分；官方未给出这些等式。它与Sentiment方向不一致时，先核对数据时间，再区分连续读数与分类状态，不能把两者强行相减或认为某一个必错。该页也未公开Expiration/Carry控件及完整继承关系，不能仅因全局设0DTE就断言压力覆盖范围完全相同。联用方法见[做市商分析主线](guides/market-maker-framework.md)。
+
 读数低于零而开始上升，意味着累积压力在此前负值基础上回升；不能说已转正。读数大于零但持续下降，意味着仍有正的累积余额、最近变化却在减弱。跨日比较绝对数值还需相同重置、时间进度和数据范围，公开文档没有提供可直接跨日套用的强弱阈值。
 
 均线可以帮助比较最近主线与较平滑背景的差异。主线上穿 EMA15 只是一种时序变化，未自动给出未来上行概率；均线有滞后，横盘时反复交叉。两条均线同时启用时主动换成不同颜色，否则默认近似配色容易混淆。
@@ -2224,7 +2385,7 @@ Revert 只是反转展示的视角。客户正 Delta 的对手若是做市商，
 将它与 GEX Profile 配合时，Profile 回答“哪里集中”，Pressure 回答“随时间怎样变化”。与 Sentiment 配合时，Sentiment 给出分类状态，Pressure 保留连续路径；不要把二者视为完全独立的数据源。官方未披露该指标具体使用哪些 Greeks、是否重新估值历史序列、准确单位、阈值和执行场所，不能补写成 Vanna/Charm 或真实期货成交量。
 
 
-<a id="chapter-23"></a>
+<a id="chapter-24"></a>
 
 源文件：[guides/web-market-maker-sentiment.md](guides/web-market-maker-sentiment.md)
 
@@ -2267,6 +2428,8 @@ Revert 只是反转展示的视角。客户正 Delta 的对手若是做市商，
 
 ### 环境与方向的组合阅读
 
+Regime可以作环境摘要，但不是已公开的“Summary Gex大于零就涂绿”公式。即使两者同屏，分类阈值与覆盖范围未完全披露，也不能要求每分钟一一相等。本页未公开Expiration/Carry控件或完整继承机制；比较前将这部分记为未知。与Pressure和Summary的冲突排查见[做市商分析主线](guides/market-maker-framework.md)。
+
 | Regime | Direction | 教学性理解与下一观察 |
 |---|---|---|
 | 正 | Up / Up strong | 向上偏向存在，但若对冲倾向抑制波动，可能是较温和上行；检查上方结构位 |
@@ -2290,7 +2453,7 @@ Revert 只是反转展示的视角。客户正 Delta 的对手若是做市商，
 波幅条表示条件性提示，不给出上涨/下跌方向，也不说明日内最高价与最低价分别在哪里。首次使用应记录提示何时首次出现、是否消失、当时已实现的高低范围，防止收盘后用完整日振幅倒推成盘前预测。官方没有公开模型公式、实盘时效、未来函数审计或绩效统计，不能把展示截图写成“准确识别趋势”的证明。
 
 
-<a id="chapter-24"></a>
+<a id="chapter-25"></a>
 
 源文件：[guides/web-exhaustion.md](guides/web-exhaustion.md)
 
@@ -2357,7 +2520,7 @@ Revert 只是反转展示的视角。客户正 Delta 的对手若是做市商，
 不要只截取后来反转的标记，也不要把触发后的最低/最高点反推成可成交价格。专有信号是否会历史修订需要真实回放核验，静态宣传截图不能回答这一问题。
 
 
-<a id="chapter-25"></a>
+<a id="chapter-26"></a>
 
 源文件：[guides/15-workflows-and-risk.md](guides/15-workflows-and-risk.md)
 
@@ -2365,7 +2528,9 @@ Revert 只是反转展示的视角。客户正 Delta 的对手若是做市商，
 
 核验日期：2026-10-29。本篇是基于各指标含义构建的研究流程，所有规则与数字均为教学设计，未经过策略回测；产品事实可沿各指标专篇及[基础来源](research/market-foundations.md)核对。
 
-### 1. 一次分析要串起四个问题
+以做市商风险为核心的学习顺序、数据层级、存量与净流算例，以及指标冲突表，见[做市商分析主线](guides/market-maker-framework.md)。本篇进一步处理情景、执行坐标和验证。
+
+### 1. 一次分析的阅读路径
 
 ```mermaid
 flowchart TD
@@ -2468,6 +2633,8 @@ SPX现金结算与SPY/QQQ可能实物交割的期权制度不同，AM/PM结算�
 
 样本先按日期隔离为规则探索与后续验证两组，避免在同一批走势上反复改阈值。统计每次出现机会，不只收藏成功截图。评价至少区分方向、环境、到达反应区后的最大有利/不利移动、滑点和费用；不要只报“碰到墙反弹次数”。
 
+若要检验某个MM指标是否增加信息，先固定同一套价格触发、退出和风险规则，再比较“不加该过滤”与“加该过滤”的结果。过滤后交易更少可能提高表面胜率，却错过大行情或降低整体收益；需同时报告机会数、回撤、费用和未触发时段。此处是验证设计，当前文档没有执行该回测。
+
 ### 11. 可直接复制的观察记录
 
 ```text
@@ -2503,7 +2670,7 @@ Spot或To Futures Price / 同步基差：
 缺少明确公开说明的提醒、API、自动下单或模型公式，见[覆盖与未知项](research/coverage-and-unknowns.md)。不要从菜单名或产品营销语自行补齐能力。
 
 
-<a id="chapter-26"></a>
+<a id="chapter-27"></a>
 
 源文件：[research/evidence-and-media.md](research/evidence-and-media.md)
 
@@ -2582,7 +2749,7 @@ Web平台总览21幅操作截图及关键Delta、热图、Big Flows、Profile参
 另检查了正文引用的67个唯一外部URL：58个普通请求返回200，9个CME地址普通请求超时、经Web读取均成功取得对应页面/PDF。超时没有被误判成失效链接；[外部引用检查记录](research/external-link-check.json)保留两种结果。这里的可达验证仍不替代正文逐项事实核对。
 
 
-<a id="chapter-27"></a>
+<a id="chapter-28"></a>
 
 源文件：[research/coverage-and-unknowns.md](research/coverage-and-unknowns.md)
 
@@ -2619,6 +2786,7 @@ Web平台总览21幅操作截图及关键Delta、热图、Big Flows、Profile参
 | Profile Summary、Sizing、Strike grid | 同上 | 区分显示变换、数据聚合与统计量 |
 | 市场含义与数学 | [基础研究](research/market-foundations.md) | 23项OIC/Cboe/CME等一手来源 |
 | 教学布局、情景、单位、风险与复盘 | [组合流程](guides/15-workflows-and-risk.md) | 原创研究方案，非经验证策略 |
+| 做市商阅读主线、库存与流量、目标对冲与新增订单、冲突处理 | [做市商分析](guides/market-maker-framework.md)、[来源复核](research/market-maker-source-review.md) | 产品定义与教学推导分开；Cboe具体数据产品不等同DeepGamma供应合同 |
 
 ### 没有把哪些东西写成已知
 
@@ -2645,3 +2813,97 @@ Web平台总览21幅操作截图及关键Delta、热图、Big Flows、Profile参
 免费Demo真实入口要求姓名、邮箱和条款确认，公开页限定Replay。未提交个人资料或注册，因此没有把付费后的真实界面、服务器数值或执行行为写成已经实测。当前资料足以编写公开功能配置与使用指南，以上未公开实现保留为明确边界，不通过猜测填补。
 
 这份清单用于控制结论强度，而不是要求用户在阅读前另行确认。后续如提供实际版本截图或官方更新，可沿源清单增量修订，不必重新组织整套文档。
+
+
+<a id="chapter-29"></a>
+
+源文件：[research/market-maker-source-review.md](research/market-maker-source-review.md)
+
+## 做市商指标的独立来源复核
+
+复核日期：2026-10-29。范围：GEX Profile、Hedging Profile、Levels Advanced、Envelopes Advanced、Summary Gex、GEX Heatmap、M.M. Pressure、M.M. Sentiment，以及通用配置与市场基础。
+
+现有文档的核心方向关系和公开参数覆盖较完整。本次未发现“负 Gamma 等于看跌”“Put 天然负 Gamma”“Pressure 等于真实 ES 成交”等核心错误。需要补充的重点是把分散说明组织成一条可执行的做市商分析主线，并加强结转仓位、信息层级与数据时点的例子；不需要为了增加篇幅臆造后台公式。
+
+### 1. 补充优先级与具体位置
+
+| 优先级 | 当前缺口 | 建议补充位置与内容 |
+|---|---|---|
+| 高 | “真实 CBOE 数据”与平台指标之间的关系分散在多页，读者容易把真实参与者身份误认为完整对冲已经发生 | 新增做市商阅读主线；明确四层：参与者交易分类、头寸与 Greeks 聚合、条件对冲模型、实际价格及执行验证 |
+| 高 | Carry 已说明开关用途，但缺少“日内净买入仍可能整体净空”的算例 | 通用参数、Summary Gex：用期初净仓加盘中净交易说明存量与增量；同一系列、同一单位下比较 |
+| 高 | 环境／位置／变化的维度已经存在，未集中说明应如何选择最少的指标 | 做市商主线：Summary Gex 定量环境；Profile 或 Heatmap 定位；Hedging 条件反应；Pressure 盘中变化；Sentiment 提炼分类。不要要求全部同时开启 |
+| 中 | OI-R 已正确标注平台构造，但一手数据规范可提供更扎实的边界 | 市场基础或证据说明：Cboe 1 分钟产品的 OI 字段为空；不能反向推断 DeepGamma 特定供应合同或后台实现 |
+| 中 | 时间、覆盖、单位已有记录模板，但“指标冲突”的排查顺序可以更具体 | 组合流程：先核版本／Data source／Expiry／Carry／Strikes／时点，再区分局部与总量、存量与增量、数值与分类 |
+| 中 | 缺少用同一条件比较“加了 MM 指标是否真的有帮助”的研究例子 | 复盘章节：固定价格规则与风险规则，分组比较有无某指标过滤的结果；同时记录机会减少、费用、最大不利移动，而非只看成功截图 |
+
+### 2. 官方数据与平台派生结果应分层理解
+
+DeepCharts 将 SPX 描述为使用 CBOE 参与者数据，其他标的使用 OPRA 及专有估计；GEX Profile 专页进一步区分 MM 净值、MM C/P、DEX、净流和 OI-R。应保留这一来源差异，但不要把产品的“无假设”宣传扩展为“Greek 估值、聚合、风险抵消和对冲行为均无需模型”。[DeepGamma 产品页](https://www.deepcharts.com/features/deepgamma)、[GEX Profile 数据源](https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-gex-profile-deepgamma-web)
+
+Cboe 自己的研究使用交易主体、买卖及开平资料来分析净头寸；它强调买卖抵消后的净风险和规模，而非总成交量。研究中的 Gamma 对冲是潜在买卖需求，并非已逐笔观测的期货成交；其 2023 年样本结论也不能替代 2026 年某个交易日的判断。[Cboe：SPX 0DTE 的市场影响](https://www.cboe.com/insights/posts/volatility-insights-evaluating-the-market-impact-of-spx-0-dte-options/)
+
+建议在指南中明确以下证据边界：
+
+| 层次 | 可以确认或研究的内容 | 不应直接跨越的结论 |
+|---|---|---|
+| 来源分类 | 官方称 SPX 可区分 MM；与仅用 Call/Put 符号假设有区别 | 看到了每家机构全部资产负债表 |
+| 风险聚合 | MM GEX／DEX、按行权价分布、指定期限和 Carry | 横条数值就是未来必成交的 ES 手数 |
+| 模型解释 | Hedging 的放大／衰减、Sentiment 的环境／方向分类 | 确定的预测概率或固定胜率 |
+| 市场验证 | 同步价格、期货成交和盘口反应 | 同时发生就证明是期权做市商造成 |
+
+后两行是研究方法上的推论。Hedging 官方明确使用 IV 与 Greeks 估计反应，Sentiment 官方明确由 DeepChart 计算；Pressure 官方只以期权数据构造的累计压力类比 CVD，没有给可换算为 ES 张数的单位。[Hedging](https://www.deepcharts.com/helpcenter/article/option-gex-profile-hedging-de)、[Sentiment](https://helpdesk.deepcharts.com/portal/en/kb/articles/option-market-maker-sentiment)、[Pressure](https://helpdesk.deepcharts.com/portal/en/kb/articles/option-market-maker-pressure-deepgamma-web)
+
+### 3. 可直接纳入指南的 Carry 算例
+
+以下是净头寸的教学恒等式，不是 DeepGamma 公布的算法。只考虑同一个期权系列，忽略到期、行权、转仓和更正：
+
+```text
+期末净仓 = 期初净仓 + 期间买入张数 − 期间卖出张数
+```
+
+假设期初 MM 净空 100 张，盘中买入 30、卖出 10：期间净买入为 20，期末仍净空 80。买入可能是在平空，不能自动解释为新增多仓。若该系列每张多头 Gamma 为正，期间净交易对 Gamma 的贡献可以为正，而含期初库存的组合 Gamma 仍为负。这就解释了为什么“日内新增活动”和“含结转风险”的符号可能不同。
+
+DeepGamma 的 Summary Gex 官方说明 Carry 开启会纳入前期持仓，关闭只考虑当前会话；精确种子、结转算法和调整项未披露，因此不能声称上面算式可以精确复刻平台。[Summary Gex：General](https://www.deepcharts.com/helpcenter/article/option-summary-gex)
+
+### 4. 新核对的 Cboe 数据规范：有帮助，但不能替平台补公式
+
+Cboe Open-Close 产品提供参与者分类的买卖等统计，有 EOD、1 分钟及 10 分钟版本。产品页明确盘中版本不含 EOD 的 OI 等字段。[Cboe Open-Close 产品说明](https://datashop.cboe.com/cboe-options-open-close-volume-summary)
+
+进一步读取 **1 分钟规范 v1.5（2026-03-27）** 得到：
+
+- 字段 16、17 的 `open_interest`、`previous_open_interest` 在该盘中版本中为空。
+- 字段 35—38 为 MM 买卖的笔数与成交量；没有单独列出 MM 开仓／平仓字段。客户和 firm 等字段另有开平拆分，不能把商品概述扩写为所有身份都有相同字段。
+- 这些桶是日内累计快照，并非只包含最近一分钟增量。
+
+这些结论来自该数据产品规范，**并不证明 DeepGamma 订阅或直接使用了这一具体文件**，也不证明平台不能获取其他来源。[Cboe 1 分钟规范，PDF 第 2—3 页](https://datashop.cboe.com/documents/Open_Close_1m_Spec_v1.5.pdf)
+
+EOD 规范则区分 preliminary 与 final 文件，最终 OI 来自 OCC，数值可能修订。这进一步支持将 OI-R 称为平台实时统计，而非官方实时清算 OI。[Cboe EOD 规范 v1.3，PDF 第 3 页](https://datashop.cboe.com/documents/Open_Close_EOD_Spec_v1.3.pdf)
+
+### 5. 时间与修订的当前边界
+
+DeepGamma Web 官方写约每分钟刷新，明确不是 tick-by-tick。指南应区分数据分辨率、发布间隔和实际端到端延迟；不能由“一分钟数据”推出延迟恒定 60 秒或永远同步于价格。[Web 平台总览](https://helpdesk.deepcharts.com/portal/en/kb/articles/deepgamma-web-platform-overview)
+
+Cboe 产品页公布 **2026-11-08** 起的盘中数据改进，包括 1 分钟快照处理交易撤销与更正。相对本次复核日 2026-10-29，这是尚未生效的公告；不能写成当前行为，更不能据此宣布 DeepGamma 的历史回放已经无回填。该信息宜留在来源复核记录，用户主指南继续保留“平台修订策略未公开”的表述。[Cboe 数据改进公告](https://datashop.cboe.com/cboe-options-open-close-volume-summary)
+
+### 6. 本次无需改写的正确内容
+
+现有各篇已经正确区分了：正负 Gamma 与涨跌方向、DEX 与 GEX、整体与局部、净值与 C/P 拆分、热图归一化与真实数值、Pressure 水平与斜率、Sentiment 空白与零值，以及共源指标并非独立证据。Hedging 与 Summary 不一致时，现有文档也未武断认定某一个错误。继续保留这些说明，并通过新增主线与互链提高可发现性即可。
+
+未核实付费账户实时输出、完整 feed 合同、生产模型公式、单位、Carry 种子、修订政策、预测阈值及交易绩效。本次审阅不能把这些未知项转换为已确认的产品能力。
+
+### 7. 本次补充处理记录
+
+本次发现已落实到以下文档；上表保留审阅时的缺口，便于追溯。
+
+| 处理项 | 已更新位置 |
+|---|---|
+| 数据层级、学习顺序、冲突表、完整观察例子 | [新增做市商分析主线](guides/market-maker-framework.md)；首页和阅读导航增加入口 |
+| 目标对冲不等于新增订单；已有对冲须扣除 | [Summary Gex](guides/12-option-summary-gex.md)修订原20张ES算例 |
+| 日内净买入仍可整体净空；Carry影响范围 | [通用配置](guides/00-common-settings.md)、Summary Gex及新主线 |
+| 累计Greek加权流不等于当前库存风险 | [Delta](guides/02-option-delta.md)与[Web差异](research/web-desktop-differences.md) |
+| 行权价贡献不等于全簿假设价格扫描 | [GEX Profile](guides/05-option-gex-profile.md)与新主线 |
+| Pressure／Sentiment不强求与其他读数恒等；未公开继承关系不补造 | [Pressure](guides/web-market-maker-pressure.md)、[Sentiment](guides/web-market-maker-sentiment.md) |
+| 比较加入MM条件前后的增量价值 | [组合使用与复盘](guides/15-workflows-and-risk.md) |
+| OI-R的一手来源边界 | 本报告及[市场基础](research/market-foundations.md)互链 |
+
+本次另复看本地保存的官方GEX Profile联系表：可见MM数据源、Carry与分价位横条，但这些画面不能确认后台初始库存、对冲订单或场景再定价。[图像证据](assets/contact-sheets/option-gex-profile.jpg)

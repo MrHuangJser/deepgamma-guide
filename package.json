@@ -3,7 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "prepare:content": "python3 tools/prepare_site.py",
+    "prepare:content": "python3 tools/build_handbook.py && python3 tools/prepare_site.py",
     "dev": "npm run prepare:content && astro dev",
     "build": "npm run prepare:content && astro build",
     "preview": "astro preview"

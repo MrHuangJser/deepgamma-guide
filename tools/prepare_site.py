@@ -5,7 +5,7 @@ ROOT = Path(__file__).resolve().parent.parent
 BASE = '/deepgamma-guide/'
 DEST = ROOT / 'src/content/docs/generated'
 if DEST.exists(): shutil.rmtree(DEST)
-files = sorted((ROOT/'guides').glob('*.md')) + [ROOT/'research'/n for n in ['market-foundations.md','web-desktop-differences.md','evidence-and-media.md','coverage-and-unknowns.md']]
+files = sorted((ROOT/'guides').glob('*.md')) + [ROOT/'research'/n for n in ['market-foundations.md','web-desktop-differences.md','evidence-and-media.md','coverage-and-unknowns.md','market-maker-source-review.md']]
 files = [p for p in files if p.name != 'web-exclusive.md']
 routes = {}
 for p in files:
