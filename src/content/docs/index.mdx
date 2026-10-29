@@ -1,0 +1,38 @@
+---
+title: 看懂结构，再理解交易。
+description: DeepGamma 中文研究手册：19项指标、完整配置、真实界面与交易场景。
+template: splash
+hero:
+  tagline: 从期权风险、做市商对冲，到每一个参数的含义。一套可以查配置、读场景、核对证据的中文指南。
+  actions:
+    - text: 开始阅读
+      link: /deepgamma-guide/generated/guides/00-start-here/
+      icon: right-arrow
+      variant: primary
+    - text: 浏览指标
+      link: /deepgamma-guide/generated/indicators/01-option-volume/
+      icon: open-book
+---
+import { Card, CardGrid, LinkCard } from '@astrojs/starlight/components';
+
+<CardGrid>
+  <Card title="19 项指标，逐个讲清" icon="open-book">参数怎么配、图表怎么看、适用于什么场景。桌面与 Web 的差异独立核对。</Card>
+  <Card title="从机制理解信号" icon="puzzle">把 Delta、Gamma、持仓和期货对冲联系起来，分清模型状态与价格方向。</Card>
+  <Card title="看原图，也看边界" icon="magnifier">官方截图支持放大查看。保留资料出处、默认值冲突与未公开算法的说明。</Card>
+  <Card title="把观察变成研究" icon="rocket">用教学算例、条件与失效场景建立判断，再用回放记录验证。</Card>
+</CardGrid>
+
+## 你想先解决什么问题？
+
+<CardGrid>
+  <LinkCard title="第一次使用 DeepGamma" description="数据、标的、图表、模板与推荐阅读路线。" href="/deepgamma-guide/generated/guides/00-start-here/" />
+  <LinkCard title="查找某个配置参数" description="Expiration、Carry、Peak、Rolling 与显示字段。" href="/deepgamma-guide/generated/guides/00-common-settings/" />
+  <LinkCard title="理解期权与期货机制" description="Greeks、OI、波动率、基差和合约单位。" href="/deepgamma-guide/generated/research/market-foundations/" />
+  <LinkCard title="对照桌面与 Web" description="14 项共同指标的默认值与新控件差异。" href="/deepgamma-guide/generated/research/web-desktop-differences/" />
+</CardGrid>
+
+## 一份有证据边界的手册
+
+资料核验于 **2026 年 10 月 29 日**。内容来自官方帮助中心、多媒体识读及 OIC、Cboe、CME 等一手资料。交易情景均为教学假设，公开资料核验不等于付费软件实测，也不代表策略盈利验证。
+
+[查看来源与媒体记录](/deepgamma-guide/generated/research/evidence-and-media/) · [查看覆盖范围](/deepgamma-guide/generated/research/coverage-and-unknowns/) · [下载完整 Markdown 手册](/deepgamma-guide/downloads/DeepGamma完整手册.md)

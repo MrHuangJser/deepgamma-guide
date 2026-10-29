@@ -1,0 +1,346 @@
+{
+  "checked_date": "2026-10-29",
+  "results": [
+    {
+      "url": "https://framerusercontent.com/assets/xvNlJ0HIfb4IGyaa3z1y6POboM.mp4",
+      "status": 200,
+      "final_url": "https://framerusercontent.com/assets/xvNlJ0HIfb4IGyaa3z1y6POboM.mp4"
+    },
+    {
+      "url": "https://prd-web.optionseducation.org/advancedconcepts/black-scholes-formula",
+      "status": 200,
+      "final_url": "https://prd-web.optionseducation.org/advancedconcepts/black-scholes-formula"
+    },
+    {
+      "url": "https://prd-web.optionseducation.org/advancedconcepts/understanding-options-greeks",
+      "status": 200,
+      "final_url": "https://prd-web.optionseducation.org/advancedconcepts/understanding-options-greeks"
+    },
+    {
+      "url": "https://res-certification.cboe.com/resources/spx/spx-fact-sheet.pdf",
+      "status": 200,
+      "final_url": "https://res-certification.cboe.com/resources/spx/spx-fact-sheet.pdf"
+    },
+    {
+      "url": "https://www.cboe.com/insights/posts/volatility-insights-evaluating-the-market-impact-of-spx-0-dte-options/",
+      "status": 200,
+      "final_url": "https://www.cboe.com/insights/posts/volatility-insights-evaluating-the-market-impact-of-spx-0-dte-options/"
+    },
+    {
+      "url": "https://www.cboe.com/tradable-products/0dte/",
+      "status": 200,
+      "final_url": "https://www.cboe.com/tradable-products/0dte/"
+    },
+    {
+      "url": "https://www.cboe.com/tradable-products/sp-500/spx-options/spx-specifications",
+      "status": 200,
+      "final_url": "https://www.cboe.com/tradable-products/sp-500/spx-options/spx-specifications"
+    },
+    {
+      "url": "https://www.cboe.com/tradable-products/vix/term-structure",
+      "status": 200,
+      "final_url": "https://www.cboe.com/tradable-products/vix/term-structure"
+    },
+    {
+      "url": "https://www.cftc.gov/sites/default/files/filings/ptc/16/03/ptc030416cmedcm002.pdf",
+      "status": 200,
+      "final_url": "https://www.cftc.gov/sites/default/files/filings/ptc/16/03/ptc030416cmedcm002.pdf"
+    },
+    {
+      "url": "https://www.cmegroup.com/articles/faqs/faq-options-on-micro-e-mini-s-p-500-and-nasdaq-100-futures.html",
+      "error": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=20)",
+      "independent_web_read": "Opened successfully through web retrieval on 2026-10-29; content title and document type verified. Direct Python request timed out, not classified as a dead link."
+    },
+    {
+      "url": "https://www.cmegroup.com/articles/faqs/frequently-asked-questions-micro-e-mini-equity-index-futures.html",
+      "error": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=20)",
+      "independent_web_read": "Opened successfully through web retrieval on 2026-10-29; content title and document type verified. Direct Python request timed out, not classified as a dead link."
+    },
+    {
+      "url": "https://www.cmegroup.com/education/courses/introduction-to-equity-index-products/what-is-equity-index-basis",
+      "error": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=20)",
+      "independent_web_read": "Opened successfully through web retrieval on 2026-10-29; content title and document type verified. Direct Python request timed out, not classified as a dead link."
+    },
+    {
+      "url": "https://www.cmegroup.com/education/courses/introduction-to-futures/margin-know-what-is-needed",
+      "error": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=20)",
+      "independent_web_read": "Opened successfully through web retrieval on 2026-10-29; content title and document type verified. Direct Python request timed out, not classified as a dead link."
+    },
+    {
+      "url": "https://www.cmegroup.com/markets/equities/nasdaq/e-mini-nasdaq-100.contractSpecs.html",
+      "error": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=20)",
+      "independent_web_read": "Opened successfully through web retrieval on 2026-10-29; content title and document type verified. Direct Python request timed out, not classified as a dead link."
+    },
+    {
+      "url": "https://www.cmegroup.com/markets/equities/sp/e-mini-sandp500.contractSpecs.html",
+      "error": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=20)",
+      "independent_web_read": "Opened successfully through web retrieval on 2026-10-29; content title and document type verified. Direct Python request timed out, not classified as a dead link."
+    },
+    {
+      "url": "https://www.cmegroup.com/tools-information/quikstrike/quikstrike-volatility-term-structure-tool-user-guide.html",
+      "error": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=20)",
+      "independent_web_read": "Opened successfully through web retrieval on 2026-10-29; content title and document type verified. Direct Python request timed out, not classified as a dead link."
+    },
+    {
+      "url": "https://www.cmegroup.com/trading/equity-index/fairvalue.html",
+      "error": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=20)",
+      "independent_web_read": "Opened successfully through web retrieval on 2026-10-29; content title and document type verified. Direct Python request timed out, not classified as a dead link."
+    },
+    {
+      "url": "https://www.cmegroup.com/trading/equity-index/files/cme-micro-e-mini-futures-fact-card.pdf",
+      "error": "HTTPSConnectionPool(host='www.cmegroup.com', port=443): Read timed out. (read timeout=20)",
+      "independent_web_read": "Opened successfully through web retrieval on 2026-10-29; content title and document type verified. Direct Python request timed out, not classified as a dead link."
+    },
+    {
+      "url": "https://www.deepcharts.com/changelog/v16",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/changelog/v16"
+    },
+    {
+      "url": "https://www.deepcharts.com/features/deepgamma",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/features/deepgamma"
+    },
+    {
+      "url": "https://www.deepcharts.com/gamma-demo",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/gamma-demo"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-big-flows",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-big-flows"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-delta",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-delta"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-envelopes-advanced-deepchart",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-envelopes-advanced-deepchart"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-expected-move",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-expected-move"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-gex-heatmap",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-gex-heatmap"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-gex-profile",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-gex-profile"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-gex-profile-hedging-de",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-gex-profile-hedging-de"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-levels",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-levels"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-levels-advanced",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-levels-advanced"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-levels-envelopes",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-levels-envelopes"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-profile-deepchart",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-profile-deepchart"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-summary",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-summary"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-summary-gex",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-summary-gex"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-volume",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/article/option-volume"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/deepgamma-web-platform-overview",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/deepgamma-web-platform-overview"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-big-flows-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-big-flows-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-delta-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-delta-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-dynamic-walls",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-dynamic-walls"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-envelopes",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-envelopes"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-envelopes-advanced-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-envelopes-advanced-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-exhaustion-detector",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-exhaustion-detector"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-expected-move-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-expected-move-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-gex-heatmap-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-gex-heatmap-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-gex-profile-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-gex-profile-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-gex-profile-hedging-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-gex-profile-hedging-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-levels-advanced-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-levels-advanced-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-levels-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-levels-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-market-maker-pressure-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-market-maker-pressure-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-market-maker-sentiment",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-market-maker-sentiment"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-net-flow",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-net-flow"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-profile-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-profile-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-summary-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-summary-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-summary-gex-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-summary-gex-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-volume-deepgamma-web",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-volume-deepgamma-web"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/features",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/features"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/getting-started",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/getting-started"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/how-to",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/how-to"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/indicators",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/indicators"
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/layouts-templates",
+      "status": 200,
+      "final_url": "https://www.deepcharts.com/helpcenter/deepgamma-web/layouts-templates"
+    },
+    {
+      "url": "https://www.optionseducation.org/advancedconcepts/delta",
+      "status": 200,
+      "final_url": "https://www.optionseducation.org/advancedconcepts/delta"
+    },
+    {
+      "url": "https://www.optionseducation.org/advancedconcepts/gamma",
+      "status": 200,
+      "final_url": "https://www.optionseducation.org/advancedconcepts/gamma"
+    },
+    {
+      "url": "https://www.optionseducation.org/advancedconcepts/theta",
+      "status": 200,
+      "final_url": "https://www.optionseducation.org/advancedconcepts/theta"
+    },
+    {
+      "url": "https://www.optionseducation.org/advancedconcepts/vega",
+      "status": 200,
+      "final_url": "https://www.optionseducation.org/advancedconcepts/vega"
+    },
+    {
+      "url": "https://www.optionseducation.org/referencelibrary/faq/general-information",
+      "status": 200,
+      "final_url": "https://www.optionseducation.org/referencelibrary/faq/general-information"
+    },
+    {
+      "url": "https://www.optionseducation.org/referencelibrary/faq/technical-information",
+      "status": 200,
+      "final_url": "https://www.optionseducation.org/referencelibrary/faq/technical-information"
+    }
+  ],
+  "note": "HTTP status is an access check, not proof of content accuracy; bot-blocked sources need separate browser verification.",
+  "summary": {
+    "total_unique_urls": 67,
+    "direct_http_200": 58,
+    "direct_timeouts_but_web_read_succeeded": 9
+  }
+}

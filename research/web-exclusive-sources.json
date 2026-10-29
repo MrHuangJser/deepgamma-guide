@@ -1,0 +1,547 @@
+{
+  "checked_date": "2026-10-29",
+  "scope": "Web additional five indicators",
+  "pages": [
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-dynamic-walls",
+      "slug": "option-dynamic-walls",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+          "local": "assets/web-exclusive/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+          "alt": "",
+          "visually_inspected": false
+        },
+        {
+          "url": "https://framerusercontent.com/images/1i4t7i4I2Fk106vzCcKe5eKeo4.png",
+          "local": "assets/web-exclusive/1i4t7i4I2Fk106vzCcKe5eKeo4.png",
+          "alt": "Option Dynamic Walls - DeepGamma Web. Platform interface screenshot 1.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "local": "assets/web-exclusive/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "visually_inspected": false
+        },
+        {
+          "url": "https://framerusercontent.com/images/RfiuxnebzeOGv13wwo5ZSynL5I.png",
+          "local": "assets/web-exclusive/RfiuxnebzeOGv13wwo5ZSynL5I.png",
+          "alt": "Option Dynamic Walls - DeepGamma Web. How to Add Option Dynamic Walls screenshot 2.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/iKHemaYU2a8WlxVSRFx6xJmCc.png",
+          "local": "assets/web-exclusive/iKHemaYU2a8WlxVSRFx6xJmCc.png",
+          "alt": "Option Dynamic Walls - DeepGamma Web. Understanding the Indicator screenshot 3.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/YHCkbHK3QT4q9tDKIYNnUSW70dY.png",
+          "local": "assets/web-exclusive/YHCkbHK3QT4q9tDKIYNnUSW70dY.png",
+          "alt": "Option Dynamic Walls - DeepGamma Web. Walls screenshot 4.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/8Sk1IYRMs41uynHEtCPVoX5nLi8.png",
+          "local": "assets/web-exclusive/8Sk1IYRMs41uynHEtCPVoX5nLi8.png",
+          "alt": "Option Dynamic Walls - DeepGamma Web. Overlap screenshot 5.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/EQvJfjB7f0hScD20AbS5yHj2W8.png",
+          "local": "assets/web-exclusive/EQvJfjB7f0hScD20AbS5yHj2W8.png",
+          "alt": "Option Dynamic Walls - DeepGamma Web. Example - How to Use Option Dynamic Walls screenshot 6.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "local": "assets/web-exclusive/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "alt": "",
+          "visually_inspected": false
+        }
+      ],
+      "source_type": "first_party_official_help_center",
+      "read_text": true,
+      "visual_findings": [
+        "主图蓝色动态带与Overlap为独立系列",
+        "参数仅含外观，无公开计算过滤阈值",
+        "Overlap备用色截图偏橙，正文称红"
+      ],
+      "visual_inspection": {
+        "method": "view_image: article contact sheet; selected original settings screenshots additionally enlarged",
+        "contact_sheet": "assets/web-exclusive/option-dynamic-walls-sheet.jpg",
+        "inspected_originals": [
+          {
+            "local": "assets/web-exclusive/1i4t7i4I2Fk106vzCcKe5eKeo4.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/RfiuxnebzeOGv13wwo5ZSynL5I.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/iKHemaYU2a8WlxVSRFx6xJmCc.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/YHCkbHK3QT4q9tDKIYNnUSW70dY.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/8Sk1IYRMs41uynHEtCPVoX5nLi8.png",
+            "view": "full-size and contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/EQvJfjB7f0hScD20AbS5yHj2W8.png",
+            "view": "contact sheet"
+          }
+        ],
+        "not_inspected": "decorative logos and 1px separators"
+      },
+      "media_note": "Official article contains screenshot images; no substantive instructional video/audio found in fetched article HTML. Tracking iframe not instructional media."
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-exhaustion-detector",
+      "slug": "option-exhaustion-detector",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+          "local": "assets/web-exclusive/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+          "alt": "",
+          "visually_inspected": false
+        },
+        {
+          "url": "https://framerusercontent.com/images/9plFbS2eSroSLy43Und87r7bQzI.png",
+          "local": "assets/web-exclusive/9plFbS2eSroSLy43Und87r7bQzI.png",
+          "alt": "Option Exhaustion Detector - DeepGamma Web. Platform interface screenshot 1.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "local": "assets/web-exclusive/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "visually_inspected": false
+        },
+        {
+          "url": "https://framerusercontent.com/images/VnqADddrRZVQ0qKPk4fzeuyVwI.png",
+          "local": "assets/web-exclusive/VnqADddrRZVQ0qKPk4fzeuyVwI.png",
+          "alt": "Option Exhaustion Detector - DeepGamma Web. How to Add Option Exhaustion Detector screenshot 2.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/ftlunK32sCStBnWJoCpSS5Zwc.png",
+          "local": "assets/web-exclusive/ftlunK32sCStBnWJoCpSS5Zwc.png",
+          "alt": "Option Exhaustion Detector - DeepGamma Web. Understanding the Markers screenshot 3.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/g0weP5pihiiIFBlwWujfPMgCI3U.png",
+          "local": "assets/web-exclusive/g0weP5pihiiIFBlwWujfPMgCI3U.png",
+          "alt": "Option Exhaustion Detector - DeepGamma Web. Settings screenshot 4.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/U42awvAlfETHkTP3r8QTiSFI.png",
+          "local": "assets/web-exclusive/U42awvAlfETHkTP3r8QTiSFI.png",
+          "alt": "Option Exhaustion Detector - DeepGamma Web. Example - How to Use Option Exhaustion Detector screenshot 5.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "local": "assets/web-exclusive/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "alt": "",
+          "visually_inspected": false
+        }
+      ],
+      "source_type": "first_party_official_help_center",
+      "read_text": true,
+      "visual_findings": [
+        "完整设置可读High/5/70/30，四个颜色与正文一致",
+        "图上存在同向移动中的多个衰竭标记",
+        "Hollow为全局外观开关，不能引申为平仓"
+      ],
+      "visual_inspection": {
+        "method": "view_image: article contact sheet; selected original settings screenshots additionally enlarged",
+        "contact_sheet": "assets/web-exclusive/option-exhaustion-detector-sheet.jpg",
+        "inspected_originals": [
+          {
+            "local": "assets/web-exclusive/9plFbS2eSroSLy43Und87r7bQzI.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/VnqADddrRZVQ0qKPk4fzeuyVwI.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/ftlunK32sCStBnWJoCpSS5Zwc.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/g0weP5pihiiIFBlwWujfPMgCI3U.png",
+            "view": "full-size and contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/U42awvAlfETHkTP3r8QTiSFI.png",
+            "view": "contact sheet"
+          }
+        ],
+        "not_inspected": "decorative logos and 1px separators"
+      },
+      "media_note": "Official article contains screenshot images; no substantive instructional video/audio found in fetched article HTML. Tracking iframe not instructional media."
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-market-maker-pressure-deepgamma-web",
+      "slug": "option-market-maker-pressure-deepgamma-web",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+          "local": "assets/web-exclusive/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+          "alt": "",
+          "visually_inspected": false
+        },
+        {
+          "url": "https://framerusercontent.com/images/4n9MR93MRWC5EoTgbU7CZN10.png",
+          "local": "assets/web-exclusive/4n9MR93MRWC5EoTgbU7CZN10.png",
+          "alt": "Option Market Maker Pressure - DeepGamma Web. Platform interface screenshot 1.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "local": "assets/web-exclusive/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "visually_inspected": false
+        },
+        {
+          "url": "https://framerusercontent.com/images/ymql8Zbs7ciQb0DhDwciZe6O4.png",
+          "local": "assets/web-exclusive/ymql8Zbs7ciQb0DhDwciZe6O4.png",
+          "alt": "Option Market Maker Pressure - DeepGamma Web. How to Add Option Market Maker Pressure screenshot 2.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/s4O4UWxd8MqvrfkP5R9FEfyZMYU.png",
+          "local": "assets/web-exclusive/s4O4UWxd8MqvrfkP5R9FEfyZMYU.png",
+          "alt": "Option Market Maker Pressure - DeepGamma Web. Understanding the Indicator screenshot 3.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/cWpyd7btEK14oQhUm173DItAQ.png",
+          "local": "assets/web-exclusive/cWpyd7btEK14oQhUm173DItAQ.png",
+          "alt": "Option Market Maker Pressure - DeepGamma Web. Parameters screenshot 4.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/AXUZjPA20vZJrN4M28Kt7otSz4M.png",
+          "local": "assets/web-exclusive/AXUZjPA20vZJrN4M28Kt7otSz4M.png",
+          "alt": "Option Market Maker Pressure - DeepGamma Web. Parameters screenshot 5.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/nkp7NfmtCpVAIlS7QFV6gqeGO8.png",
+          "local": "assets/web-exclusive/nkp7NfmtCpVAIlS7QFV6gqeGO8.png",
+          "alt": "Option Market Maker Pressure - DeepGamma Web. Series screenshot 6.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/Sz0LQfblzRaPvfbt5PNmJoBRe6Y.png",
+          "local": "assets/web-exclusive/Sz0LQfblzRaPvfbt5PNmJoBRe6Y.png",
+          "alt": "Option Market Maker Pressure - DeepGamma Web. Series screenshot 7.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/TcSK7FEkzygTccWapuu9pXyxaXw.png",
+          "local": "assets/web-exclusive/TcSK7FEkzygTccWapuu9pXyxaXw.png",
+          "alt": "Option Market Maker Pressure - DeepGamma Web. Series screenshot 8.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/s37KQiZ0lUsISGbltjFrtPBA.png",
+          "local": "assets/web-exclusive/s37KQiZ0lUsISGbltjFrtPBA.png",
+          "alt": "Option Market Maker Pressure - DeepGamma Web. Example - How to Use Option Market Maker Pressure screenshot 9.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "local": "assets/web-exclusive/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "alt": "",
+          "visually_inspected": false
+        }
+      ],
+      "source_type": "first_party_official_help_center",
+      "read_text": true,
+      "visual_findings": [
+        "默认副图截图与Overlay开关示例同时存在",
+        "参数图EMA15开启、EMA30关闭",
+        "Average1截图黄色，正文默认称橙色"
+      ],
+      "visual_inspection": {
+        "method": "view_image: article contact sheet; selected original settings screenshots additionally enlarged",
+        "contact_sheet": "assets/web-exclusive/option-market-maker-pressure-deepgamma-web-sheet.jpg",
+        "inspected_originals": [
+          {
+            "local": "assets/web-exclusive/4n9MR93MRWC5EoTgbU7CZN10.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/ymql8Zbs7ciQb0DhDwciZe6O4.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/s4O4UWxd8MqvrfkP5R9FEfyZMYU.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/cWpyd7btEK14oQhUm173DItAQ.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/AXUZjPA20vZJrN4M28Kt7otSz4M.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/nkp7NfmtCpVAIlS7QFV6gqeGO8.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/Sz0LQfblzRaPvfbt5PNmJoBRe6Y.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/TcSK7FEkzygTccWapuu9pXyxaXw.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/s37KQiZ0lUsISGbltjFrtPBA.png",
+            "view": "contact sheet"
+          }
+        ],
+        "not_inspected": "decorative logos and 1px separators"
+      },
+      "media_note": "Official article contains screenshot images; no substantive instructional video/audio found in fetched article HTML. Tracking iframe not instructional media."
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-market-maker-sentiment",
+      "slug": "option-market-maker-sentiment",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+          "local": "assets/web-exclusive/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+          "alt": "",
+          "visually_inspected": false
+        },
+        {
+          "url": "https://framerusercontent.com/images/2haZh1b2h785lrHM7S5797LEPvs.png",
+          "local": "assets/web-exclusive/2haZh1b2h785lrHM7S5797LEPvs.png",
+          "alt": "Option Market Maker Sentiment - DeepGamma Web. Platform interface screenshot 1.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "local": "assets/web-exclusive/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "visually_inspected": false
+        },
+        {
+          "url": "https://framerusercontent.com/images/RQVTnoPfuiY3KXmX3kBatfngxg.png",
+          "local": "assets/web-exclusive/RQVTnoPfuiY3KXmX3kBatfngxg.png",
+          "alt": "Option Market Maker Sentiment - DeepGamma Web. How to Add Option Market Maker Sentiment screenshot 2.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/UOxNEvgAJobHyNnawsCRTglyI5s.png",
+          "local": "assets/web-exclusive/UOxNEvgAJobHyNnawsCRTglyI5s.png",
+          "alt": "Option Market Maker Sentiment - DeepGamma Web. Plot Settings screenshot 4.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/pVLDVZ7XdhvOPtydXxg8knHrQ.png",
+          "local": "assets/web-exclusive/pVLDVZ7XdhvOPtydXxg8knHrQ.png",
+          "alt": "Option Market Maker Sentiment - DeepGamma Web. Example - How to Use Option Market Maker Sentiment screenshot 5.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "local": "assets/web-exclusive/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "alt": "",
+          "visually_inspected": false
+        }
+      ],
+      "source_type": "first_party_official_help_center",
+      "read_text": true,
+      "visual_findings": [
+        "设置三个独立部分",
+        "Regime与Direction默认Strip",
+        "实际条带有空白部分"
+      ],
+      "visual_inspection": {
+        "method": "view_image: article contact sheet; selected original settings screenshots additionally enlarged",
+        "contact_sheet": "assets/web-exclusive/option-market-maker-sentiment-sheet.jpg",
+        "inspected_originals": [
+          {
+            "local": "assets/web-exclusive/2haZh1b2h785lrHM7S5797LEPvs.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/RQVTnoPfuiY3KXmX3kBatfngxg.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/UOxNEvgAJobHyNnawsCRTglyI5s.png",
+            "view": "full-size and contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/pVLDVZ7XdhvOPtydXxg8knHrQ.png",
+            "view": "contact sheet"
+          }
+        ],
+        "not_inspected": "decorative logos and 1px separators"
+      },
+      "media_note": "Official article contains screenshot images; no substantive instructional video/audio found in fetched article HTML. Tracking iframe not instructional media."
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-net-flow",
+      "slug": "option-net-flow",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+          "local": "assets/web-exclusive/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+          "alt": "",
+          "visually_inspected": false
+        },
+        {
+          "url": "https://framerusercontent.com/images/vwX7ajnwG57wtext06cYPMc0Dk.png",
+          "local": "assets/web-exclusive/vwX7ajnwG57wtext06cYPMc0Dk.png",
+          "alt": "Option Net Flow - DeepGamma Web. Platform interface screenshot 1.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "local": "assets/web-exclusive/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "visually_inspected": false
+        },
+        {
+          "url": "https://framerusercontent.com/images/nYwQZedJT4EuVeDZqzKWuvcyBE.png",
+          "local": "assets/web-exclusive/nYwQZedJT4EuVeDZqzKWuvcyBE.png",
+          "alt": "Option Net Flow - DeepGamma Web. How to Add Option Net Flow screenshot 2.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/eQy1qCsW7xwm5ScwRihznzNgU4.png",
+          "local": "assets/web-exclusive/eQy1qCsW7xwm5ScwRihznzNgU4.png",
+          "alt": "Option Net Flow - DeepGamma Web. Understanding the Indicator screenshot 3.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/VfJp6nJfBrGFcpkSAofInTtHk.png",
+          "local": "assets/web-exclusive/VfJp6nJfBrGFcpkSAofInTtHk.png",
+          "alt": "Option Net Flow - DeepGamma Web. Parameters screenshot 4.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/mlYrbiKV3VUFpqgo24XY0DddeAI.png",
+          "local": "assets/web-exclusive/mlYrbiKV3VUFpqgo24XY0DddeAI.png",
+          "alt": "Option Net Flow - DeepGamma Web. Parameters screenshot 5.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/NMYWAMoo0fbS71WekHjfGB7SgQ.png",
+          "local": "assets/web-exclusive/NMYWAMoo0fbS71WekHjfGB7SgQ.png",
+          "alt": "Option Net Flow - DeepGamma Web. Parameters screenshot 6.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/SW5BxX0REIXwdu5KRCtzaRNBG4.png",
+          "local": "assets/web-exclusive/SW5BxX0REIXwdu5KRCtzaRNBG4.png",
+          "alt": "Option Net Flow - DeepGamma Web. Series screenshot 7.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/FLc0edIIJD8XMTkL3rEzXxBt25M.png",
+          "local": "assets/web-exclusive/FLc0edIIJD8XMTkL3rEzXxBt25M.png",
+          "alt": "Option Net Flow - DeepGamma Web. Series screenshot 8.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/JEtoUzTWsAMhX3vGSGBMLd2o9k.png",
+          "local": "assets/web-exclusive/JEtoUzTWsAMhX3vGSGBMLd2o9k.png",
+          "alt": "Option Net Flow - DeepGamma Web. Series screenshot 9.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/ulR8PeukOGkqp92VRaMaBpjAs.png",
+          "local": "assets/web-exclusive/ulR8PeukOGkqp92VRaMaBpjAs.png",
+          "alt": "Option Net Flow - DeepGamma Web. Example - How to Use Option Net Flow screenshot 10.",
+          "visually_inspected": true
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "local": "assets/web-exclusive/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "alt": "",
+          "visually_inspected": false
+        }
+      ],
+      "source_type": "first_party_official_help_center",
+      "read_text": true,
+      "visual_findings": [
+        "参数图Default/Premium且两个开关关闭",
+        "Put序列可正可负",
+        "Difference设置截图与正文默认值明显不一致"
+      ],
+      "visual_inspection": {
+        "method": "view_image: article contact sheet; selected original settings screenshots additionally enlarged",
+        "contact_sheet": "assets/web-exclusive/option-net-flow-sheet.jpg",
+        "inspected_originals": [
+          {
+            "local": "assets/web-exclusive/vwX7ajnwG57wtext06cYPMc0Dk.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/nYwQZedJT4EuVeDZqzKWuvcyBE.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/eQy1qCsW7xwm5ScwRihznzNgU4.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/VfJp6nJfBrGFcpkSAofInTtHk.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/mlYrbiKV3VUFpqgo24XY0DddeAI.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/NMYWAMoo0fbS71WekHjfGB7SgQ.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/SW5BxX0REIXwdu5KRCtzaRNBG4.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/FLc0edIIJD8XMTkL3rEzXxBt25M.png",
+            "view": "contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/JEtoUzTWsAMhX3vGSGBMLd2o9k.png",
+            "view": "full-size and contact sheet"
+          },
+          {
+            "local": "assets/web-exclusive/ulR8PeukOGkqp92VRaMaBpjAs.png",
+            "view": "contact sheet"
+          }
+        ],
+        "not_inspected": "decorative logos and 1px separators"
+      },
+      "media_note": "Official article contains screenshot images; no substantive instructional video/audio found in fetched article HTML. Tracking iframe not instructional media."
+    }
+  ],
+  "limitations": [
+    "Document research, not logged-in software execution or subscription entitlement testing.",
+    "Trade scenarios and proposed workflows are original educational hypotheses.",
+    "Unpublished proprietary algorithms, thresholds, units, probability calibration and historical revision behavior not inferred from screenshots.",
+    "Text default values and example screenshot settings may differ; discrepancies documented in guides."
+  ]
+}

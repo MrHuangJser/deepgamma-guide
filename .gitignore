@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.astro/
+src/content/docs/generated/
+public/assets/
+public/downloads/
+public/research/

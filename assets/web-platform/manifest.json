@@ -1,0 +1,2265 @@
+[
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-big-flows-deepgamma-web",
+    "slug": "option-big-flows-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/xoAWZ5qXGgC7JkYn5KkSqpSpCM.png",
+        "alt": "Option Big Flows - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/xoAWZ5qXGgC7JkYn5KkSqpSpCM.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-big-flows-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/lRi8XUmssnXnWfhlx6wgaRzNKI.png",
+        "alt": "Option Big Flows - DeepGamma Web. How to Add Option Big Flows screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/lRi8XUmssnXnWfhlx6wgaRzNKI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-big-flows-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "alt": "Option Big Flows - DeepGamma Web. General screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-big-flows-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/zlFy32cBnYc6rLEeNPi8WR1Xrfo.png",
+        "alt": "Option Big Flows - DeepGamma Web. General screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/zlFy32cBnYc6rLEeNPi8WR1Xrfo.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-big-flows-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/aIEQbOI6nUe2loPKW6luhHlf02Y.png",
+        "alt": "Option Big Flows - DeepGamma Web. Call Plot screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/aIEQbOI6nUe2loPKW6luhHlf02Y.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-big-flows-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/FKYPzMnxACEIfarWCPWcERC8jM.png",
+        "alt": "Option Big Flows - DeepGamma Web. Put Plot screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/FKYPzMnxACEIfarWCPWcERC8jM.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-big-flows-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ZXwmsibmqQ5rIK18NxxLjqAot8.png",
+        "alt": "Option Big Flows - DeepGamma Web. Size Settings screenshot 8.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/ZXwmsibmqQ5rIK18NxxLjqAot8.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-big-flows-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/AkQ2fVWhVgoxcRLHcSdxyyBzs0.png",
+        "alt": "Option Big Flows - DeepGamma Web. Example - How to Use Option Big Flows screenshot 9.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/AkQ2fVWhVgoxcRLHcSdxyyBzs0.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-big-flows-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-big-flows-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-delta-deepgamma-web",
+    "slug": "option-delta-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2vOrkF1geDvOT7R9uxHKJLrOZU.png",
+        "alt": "Option Delta - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2vOrkF1geDvOT7R9uxHKJLrOZU.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-delta-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/dWqbwxYgJOg47SetucfcsP9oEI.png",
+        "alt": "Option Delta - DeepGamma Web. How to Add Option Delta screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/dWqbwxYgJOg47SetucfcsP9oEI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-delta-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "alt": "Option Delta - DeepGamma Web. Parameters screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-delta-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/7t7hcElGtmwQjgMSxA59EG0ugM.png",
+        "alt": "Option Delta - DeepGamma Web. Parameters screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/7t7hcElGtmwQjgMSxA59EG0ugM.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-delta-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/jgrLWTGD8HzfTXRu1Hwlm4PM0jM.png",
+        "alt": "Option Delta - DeepGamma Web. Series screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/jgrLWTGD8HzfTXRu1Hwlm4PM0jM.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-delta-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Sf5S1vWoAgmS04FrIBjLgzERQBI.png",
+        "alt": "Option Delta - DeepGamma Web. Example - How to Use Option Delta screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/Sf5S1vWoAgmS04FrIBjLgzERQBI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-delta-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/4r4FKMiGdNJjjQAHneM8yWqdKk.png",
+        "alt": "Option Delta - DeepGamma Web. Example - How to Use Option Delta screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/4r4FKMiGdNJjjQAHneM8yWqdKk.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-delta-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/4E75FS2BMH75jR8twLQ3NL59KUM.png",
+        "alt": "Option Delta - DeepGamma Web. Example - How to Use Option Delta screenshot 8.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/4E75FS2BMH75jR8twLQ3NL59KUM.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-delta-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/mFWP2615hGjKUiW0OoCgn6tzQZ4.png",
+        "alt": "Option Delta - DeepGamma Web. Example - How to Use Option Delta screenshot 9.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/mFWP2615hGjKUiW0OoCgn6tzQZ4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-delta-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-delta-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-dynamic-walls",
+    "slug": "option-dynamic-walls",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/1i4t7i4I2Fk106vzCcKe5eKeo4.png",
+        "alt": "Option Dynamic Walls - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/1i4t7i4I2Fk106vzCcKe5eKeo4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/RfiuxnebzeOGv13wwo5ZSynL5I.png",
+        "alt": "Option Dynamic Walls - DeepGamma Web. How to Add Option Dynamic Walls screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/RfiuxnebzeOGv13wwo5ZSynL5I.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/iKHemaYU2a8WlxVSRFx6xJmCc.png",
+        "alt": "Option Dynamic Walls - DeepGamma Web. Understanding the Indicator screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/iKHemaYU2a8WlxVSRFx6xJmCc.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/YHCkbHK3QT4q9tDKIYNnUSW70dY.png",
+        "alt": "Option Dynamic Walls - DeepGamma Web. Walls screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/YHCkbHK3QT4q9tDKIYNnUSW70dY.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/8Sk1IYRMs41uynHEtCPVoX5nLi8.png",
+        "alt": "Option Dynamic Walls - DeepGamma Web. Overlap screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/8Sk1IYRMs41uynHEtCPVoX5nLi8.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/EQvJfjB7f0hScD20AbS5yHj2W8.png",
+        "alt": "Option Dynamic Walls - DeepGamma Web. Example - How to Use Option Dynamic Walls screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/EQvJfjB7f0hScD20AbS5yHj2W8.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ]
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-envelopes",
+    "slug": "option-envelopes",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/oGOztToPMKeYb7V3zp1rXUoKYk.png",
+        "alt": "Option Envelopes - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/oGOztToPMKeYb7V3zp1rXUoKYk.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/tQLO5Wu9s7SIsq4Lr5tEyb5HnQ.png",
+        "alt": "Option Envelopes - DeepGamma Web. How to Add Option Envelopes screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/tQLO5Wu9s7SIsq4Lr5tEyb5HnQ.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/9KTzs1affM7DrZFjsueYYuWU.png",
+        "alt": "Option Envelopes - DeepGamma Web. Understanding Key Terms screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/9KTzs1affM7DrZFjsueYYuWU.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/GKoUbPUXtYGQZD97tJtK6kFqE7k.png",
+        "alt": "Option Envelopes - DeepGamma Web. Parameters screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/GKoUbPUXtYGQZD97tJtK6kFqE7k.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/CRwZGb4hBWOq2xSa5BhbTHvWC8.png",
+        "alt": "Option Envelopes - DeepGamma Web. Parameters screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/CRwZGb4hBWOq2xSa5BhbTHvWC8.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/3LO1DvrvoiXQzWZ6NhaoYoJpARM.png",
+        "alt": "Option Envelopes - DeepGamma Web. Series screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/3LO1DvrvoiXQzWZ6NhaoYoJpARM.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/pyJH69wu6TBc22goYAldFZFBdAU.png",
+        "alt": "Option Envelopes - DeepGamma Web. Series screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/pyJH69wu6TBc22goYAldFZFBdAU.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/OKjEILiUOjGIsVqmiSdedzTSVE4.png",
+        "alt": "Option Envelopes - DeepGamma Web. Series screenshot 8.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/OKjEILiUOjGIsVqmiSdedzTSVE4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/NkZYFgyW53JTIlFOBENqm5Kx3YM.png",
+        "alt": "Option Envelopes - DeepGamma Web. Example - How to Use Option Envelopes screenshot 9.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/NkZYFgyW53JTIlFOBENqm5Kx3YM.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-envelopes-advanced-deepgamma-web",
+    "slug": "option-envelopes-advanced-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/z7iwOJfLDT7pFWQdabMy4b75A.png",
+        "alt": "Option Envelopes Advanced - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/z7iwOJfLDT7pFWQdabMy4b75A.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/IBVCg6y3TkuZlZvjKmaWtGnFBg.png",
+        "alt": "Option Envelopes Advanced - DeepGamma Web. How to Add Option Envelopes Advanced screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/IBVCg6y3TkuZlZvjKmaWtGnFBg.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/5g7UxhbdYXMI4zhtb4mQv9t7rHo.png",
+        "alt": "Option Envelopes Advanced - DeepGamma Web. Parameters screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/5g7UxhbdYXMI4zhtb4mQv9t7rHo.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/y2yNo5mLBGgHW7OSel8JJEip1bI.png",
+        "alt": "Option Envelopes Advanced - DeepGamma Web. Series screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/y2yNo5mLBGgHW7OSel8JJEip1bI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/LKWQJvHuD7Ol5ITW4E2N6ZtmrE.png",
+        "alt": "Option Envelopes Advanced - DeepGamma Web. Series screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/LKWQJvHuD7Ol5ITW4E2N6ZtmrE.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Rv0BzxMpmemd8tUTDpseKZMEQA.png",
+        "alt": "Option Envelopes Advanced - DeepGamma Web. Series screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/Rv0BzxMpmemd8tUTDpseKZMEQA.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/VtBSWPKmuyz7mqrQseKWU4YiOhI.png",
+        "alt": "Option Envelopes Advanced - DeepGamma Web. Example - How to Use Option Envelopes Advanced screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/VtBSWPKmuyz7mqrQseKWU4YiOhI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-envelopes-advanced-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-exhaustion-detector",
+    "slug": "option-exhaustion-detector",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/9plFbS2eSroSLy43Und87r7bQzI.png",
+        "alt": "Option Exhaustion Detector - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/9plFbS2eSroSLy43Und87r7bQzI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/VnqADddrRZVQ0qKPk4fzeuyVwI.png",
+        "alt": "Option Exhaustion Detector - DeepGamma Web. How to Add Option Exhaustion Detector screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/VnqADddrRZVQ0qKPk4fzeuyVwI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ftlunK32sCStBnWJoCpSS5Zwc.png",
+        "alt": "Option Exhaustion Detector - DeepGamma Web. Understanding the Markers screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/ftlunK32sCStBnWJoCpSS5Zwc.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/g0weP5pihiiIFBlwWujfPMgCI3U.png",
+        "alt": "Option Exhaustion Detector - DeepGamma Web. Settings screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/g0weP5pihiiIFBlwWujfPMgCI3U.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/U42awvAlfETHkTP3r8QTiSFI.png",
+        "alt": "Option Exhaustion Detector - DeepGamma Web. Example - How to Use Option Exhaustion Detector screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/U42awvAlfETHkTP3r8QTiSFI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ]
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-expected-move-deepgamma-web",
+    "slug": "option-expected-move-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/svxFu14TWGlD4lhKGObdk9j17X8.png",
+        "alt": "Option Expected Move - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/svxFu14TWGlD4lhKGObdk9j17X8.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-expected-move-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/NX3fvnWYA2Rb386DhbNANG2Rxs.png",
+        "alt": "Option Expected Move - DeepGamma Web. How to Add Option Expected Move screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/NX3fvnWYA2Rb386DhbNANG2Rxs.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-expected-move-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/VOsscjOtjvfleMo2JUYzMYK5OE.png",
+        "alt": "Option Expected Move - DeepGamma Web. Understanding the Band screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/VOsscjOtjvfleMo2JUYzMYK5OE.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-expected-move-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/8myazo9RAYumbbGxsl5ouOqH4.png",
+        "alt": "Option Expected Move - DeepGamma Web. Parameters screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/8myazo9RAYumbbGxsl5ouOqH4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-expected-move-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ASVyEB2HJ2CklJWQZt20lZKUVKM.png",
+        "alt": "Option Expected Move - DeepGamma Web. Series screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/ASVyEB2HJ2CklJWQZt20lZKUVKM.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-expected-move-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/w9oQwMUQVAbMCGCv4ObZJ6Glk8.png",
+        "alt": "Option Expected Move - DeepGamma Web. Series screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/w9oQwMUQVAbMCGCv4ObZJ6Glk8.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-expected-move-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/mA6dPQIJR7Jw1Q9LAohKVe4Vs4.png",
+        "alt": "Option Expected Move - DeepGamma Web. Series screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/mA6dPQIJR7Jw1Q9LAohKVe4Vs4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-expected-move-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-expected-move-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-gex-heatmap-deepgamma-web",
+    "slug": "option-gex-heatmap-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/CiMTLZ4pxxUeso0nIRxkgxNEeg.png",
+        "alt": "Option Gex Heatmap - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/CiMTLZ4pxxUeso0nIRxkgxNEeg.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-heatmap-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/lsfGp4FxM3dDzSfbLolpljk8oA.png",
+        "alt": "Option Gex Heatmap - DeepGamma Web. How to Add Option Gex Heatmap screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/lsfGp4FxM3dDzSfbLolpljk8oA.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-heatmap-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "alt": "Option Gex Heatmap - DeepGamma Web. General screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-heatmap-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/rEumPIESbmu4nEvEf3ZkIFLksnA.png",
+        "alt": "Option Gex Heatmap - DeepGamma Web. Plot Settings screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/rEumPIESbmu4nEvEf3ZkIFLksnA.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-heatmap-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-heatmap-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-gex-profile-deepgamma-web",
+    "slug": "option-gex-profile-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/X9zNWkQxYISIWEilsL4O7hoAMU.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/X9zNWkQxYISIWEilsL4O7hoAMU.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/fYsII5veadRBybnygEmt4IOZXo.png",
+        "alt": "Option Gex Profile - DeepGamma Web. How to Add Option Gex Profile screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/fYsII5veadRBybnygEmt4IOZXo.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "alt": "Option Gex Profile - DeepGamma Web. General screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/O5kgcvtim14tcerYF2fL9Ph7xtw.png",
+        "alt": "Option Gex Profile - DeepGamma Web. General screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/O5kgcvtim14tcerYF2fL9Ph7xtw.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/T5c8fu4ft1Tas35yrJemPSa9BM.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Colors screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/T5c8fu4ft1Tas35yrJemPSa9BM.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/rpUQDx8E992XegcSPAdMkkX5a6c.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Text screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/rpUQDx8E992XegcSPAdMkkX5a6c.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/zI8cQMN2xrnmleIQbziezaMvtE.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Width / Offset screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/zI8cQMN2xrnmleIQbziezaMvtE.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/qdd14MYkyEBRhU1fVfMBADbFPBQ.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Visual Appearance screenshot 8.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/qdd14MYkyEBRhU1fVfMBADbFPBQ.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/u7ElDuF9zECVPzSEZnj5WNcZFh0.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Sizing screenshot 9.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/u7ElDuF9zECVPzSEZnj5WNcZFh0.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/hm8REHuibMmy4jr7Jy7VtmPkew.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Peak positive screenshot 10.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/hm8REHuibMmy4jr7Jy7VtmPkew.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/YTUWBEZoF6veN4ogqklTy16cmPA.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Peak negative screenshot 11.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/YTUWBEZoF6veN4ogqklTy16cmPA.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/zU8d0htqTTT1S1TgqS7ZobNLE.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Rolling condition screenshot 12.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/zU8d0htqTTT1S1TgqS7ZobNLE.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/63CaOaE6zNIcFBAwdXxvSGCq3w.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Summary screenshot 13.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/63CaOaE6zNIcFBAwdXxvSGCq3w.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/0OAc8a7pWsQNSmDrpJRtsXnpc.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Strike grid (vertical only) screenshot 14.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/0OAc8a7pWsQNSmDrpJRtsXnpc.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/t6PiKrfT8bY123dCqQOdhLGE0.png",
+        "alt": "Option Gex Profile - DeepGamma Web. Example - How to Use Option Gex Profile screenshot 15.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/t6PiKrfT8bY123dCqQOdhLGE0.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-gex-profile-hedging-deepgamma-web",
+    "slug": "option-gex-profile-hedging-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/i3fR11KUuBUhexzv0PPWP0CJON8.png",
+        "alt": "Option Gex Profile Hedging - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/i3fR11KUuBUhexzv0PPWP0CJON8.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-hedging-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UbVdiPF0w5N7ihTtRR6xjZZ4V0.png",
+        "alt": "Option Gex Profile Hedging - DeepGamma Web. How to Add Option Gex Profile Hedging screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/UbVdiPF0w5N7ihTtRR6xjZZ4V0.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-hedging-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/XIxRgQuz6mi8wUTGW84fptaFdXE.png",
+        "alt": "Option Gex Profile Hedging - DeepGamma Web. Visual Appearance screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/XIxRgQuz6mi8wUTGW84fptaFdXE.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-hedging-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/NkFIZV64PtHS5kjwnb7G66TE.png",
+        "alt": "Option Gex Profile Hedging - DeepGamma Web. Example - How to Use Option Gex Profile Hedging screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/NkFIZV64PtHS5kjwnb7G66TE.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-hedging-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-gex-profile-hedging-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-levels-deepgamma-web",
+    "slug": "option-levels-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/MpcjLOjSSVLpsKacoqUxzOWnbaI.png",
+        "alt": "Option Levels - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/MpcjLOjSSVLpsKacoqUxzOWnbaI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/oJlwR4GBPnaJZsnDWMhCAoeYa1c.png",
+        "alt": "Option Levels - DeepGamma Web. How to Add Option Levels screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/oJlwR4GBPnaJZsnDWMhCAoeYa1c.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/4m1L0siIIEgLiAMlvqvmvXvGqc0.png",
+        "alt": "Option Levels - DeepGamma Web. Understanding the Indicator screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/4m1L0siIIEgLiAMlvqvmvXvGqc0.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "alt": "Option Levels - DeepGamma Web. General screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/M1kTJRXSWzmMUbbj9PGQjWYR3U.png",
+        "alt": "Option Levels - DeepGamma Web. Plot Settings screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/M1kTJRXSWzmMUbbj9PGQjWYR3U.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ZIcM11XXirXfA9LMcyl5dkt5URg.png",
+        "alt": "Option Levels - DeepGamma Web. Plot Settings screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/ZIcM11XXirXfA9LMcyl5dkt5URg.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/0RQQ2ISzHXlLW3zVTAGDieVwlk.png",
+        "alt": "Option Levels - DeepGamma Web. Example - How to Use Option Levels screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/0RQQ2ISzHXlLW3zVTAGDieVwlk.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-levels-advanced-deepgamma-web",
+    "slug": "option-levels-advanced-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/5lNqvPCpSa88yKkIQczqWbgPMY.png",
+        "alt": "Option Levels Advanced - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/5lNqvPCpSa88yKkIQczqWbgPMY.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/8777E3C6bddWegBmH8RSiCZeG98.png",
+        "alt": "Option Levels Advanced - DeepGamma Web. How to Add Option Levels Advanced screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/8777E3C6bddWegBmH8RSiCZeG98.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "alt": "Option Levels Advanced - DeepGamma Web. General screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/jRRFAlhi7eKWR0dT8DPm3n4Fic.png",
+        "alt": "Option Levels Advanced - DeepGamma Web. Plot Settings screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/jRRFAlhi7eKWR0dT8DPm3n4Fic.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/NReXOI5cxj3L3E9tVnnHy2bwsY.png",
+        "alt": "Option Levels Advanced - DeepGamma Web. Plot Settings screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/NReXOI5cxj3L3E9tVnnHy2bwsY.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/d2GVyLmo5CrUU0cvTwh5DZO4.png",
+        "alt": "Option Levels Advanced - DeepGamma Web. Example - How to Use Option Levels Advanced screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/d2GVyLmo5CrUU0cvTwh5DZO4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-advanced-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-levels-advanced-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-market-maker-pressure-deepgamma-web",
+    "slug": "option-market-maker-pressure-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/4n9MR93MRWC5EoTgbU7CZN10.png",
+        "alt": "Option Market Maker Pressure - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/4n9MR93MRWC5EoTgbU7CZN10.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ymql8Zbs7ciQb0DhDwciZe6O4.png",
+        "alt": "Option Market Maker Pressure - DeepGamma Web. How to Add Option Market Maker Pressure screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/ymql8Zbs7ciQb0DhDwciZe6O4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/s4O4UWxd8MqvrfkP5R9FEfyZMYU.png",
+        "alt": "Option Market Maker Pressure - DeepGamma Web. Understanding the Indicator screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/s4O4UWxd8MqvrfkP5R9FEfyZMYU.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/cWpyd7btEK14oQhUm173DItAQ.png",
+        "alt": "Option Market Maker Pressure - DeepGamma Web. Parameters screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/cWpyd7btEK14oQhUm173DItAQ.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/AXUZjPA20vZJrN4M28Kt7otSz4M.png",
+        "alt": "Option Market Maker Pressure - DeepGamma Web. Parameters screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/AXUZjPA20vZJrN4M28Kt7otSz4M.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/nkp7NfmtCpVAIlS7QFV6gqeGO8.png",
+        "alt": "Option Market Maker Pressure - DeepGamma Web. Series screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/nkp7NfmtCpVAIlS7QFV6gqeGO8.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Sz0LQfblzRaPvfbt5PNmJoBRe6Y.png",
+        "alt": "Option Market Maker Pressure - DeepGamma Web. Series screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/Sz0LQfblzRaPvfbt5PNmJoBRe6Y.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/TcSK7FEkzygTccWapuu9pXyxaXw.png",
+        "alt": "Option Market Maker Pressure - DeepGamma Web. Series screenshot 8.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/TcSK7FEkzygTccWapuu9pXyxaXw.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/s37KQiZ0lUsISGbltjFrtPBA.png",
+        "alt": "Option Market Maker Pressure - DeepGamma Web. Example - How to Use Option Market Maker Pressure screenshot 9.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/s37KQiZ0lUsISGbltjFrtPBA.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ]
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-market-maker-sentiment",
+    "slug": "option-market-maker-sentiment",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2haZh1b2h785lrHM7S5797LEPvs.png",
+        "alt": "Option Market Maker Sentiment - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/2haZh1b2h785lrHM7S5797LEPvs.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/RQVTnoPfuiY3KXmX3kBatfngxg.png",
+        "alt": "Option Market Maker Sentiment - DeepGamma Web. How to Add Option Market Maker Sentiment screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/RQVTnoPfuiY3KXmX3kBatfngxg.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UOxNEvgAJobHyNnawsCRTglyI5s.png",
+        "alt": "Option Market Maker Sentiment - DeepGamma Web. Plot Settings screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/UOxNEvgAJobHyNnawsCRTglyI5s.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/pVLDVZ7XdhvOPtydXxg8knHrQ.png",
+        "alt": "Option Market Maker Sentiment - DeepGamma Web. Example - How to Use Option Market Maker Sentiment screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/pVLDVZ7XdhvOPtydXxg8knHrQ.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ]
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-net-flow",
+    "slug": "option-net-flow",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vwX7ajnwG57wtext06cYPMc0Dk.png",
+        "alt": "Option Net Flow - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/vwX7ajnwG57wtext06cYPMc0Dk.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/nYwQZedJT4EuVeDZqzKWuvcyBE.png",
+        "alt": "Option Net Flow - DeepGamma Web. How to Add Option Net Flow screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/nYwQZedJT4EuVeDZqzKWuvcyBE.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/eQy1qCsW7xwm5ScwRihznzNgU4.png",
+        "alt": "Option Net Flow - DeepGamma Web. Understanding the Indicator screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/eQy1qCsW7xwm5ScwRihznzNgU4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/VfJp6nJfBrGFcpkSAofInTtHk.png",
+        "alt": "Option Net Flow - DeepGamma Web. Parameters screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/VfJp6nJfBrGFcpkSAofInTtHk.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/mlYrbiKV3VUFpqgo24XY0DddeAI.png",
+        "alt": "Option Net Flow - DeepGamma Web. Parameters screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/mlYrbiKV3VUFpqgo24XY0DddeAI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/NMYWAMoo0fbS71WekHjfGB7SgQ.png",
+        "alt": "Option Net Flow - DeepGamma Web. Parameters screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/NMYWAMoo0fbS71WekHjfGB7SgQ.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/SW5BxX0REIXwdu5KRCtzaRNBG4.png",
+        "alt": "Option Net Flow - DeepGamma Web. Series screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/SW5BxX0REIXwdu5KRCtzaRNBG4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/FLc0edIIJD8XMTkL3rEzXxBt25M.png",
+        "alt": "Option Net Flow - DeepGamma Web. Series screenshot 8.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/FLc0edIIJD8XMTkL3rEzXxBt25M.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/JEtoUzTWsAMhX3vGSGBMLd2o9k.png",
+        "alt": "Option Net Flow - DeepGamma Web. Series screenshot 9.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/JEtoUzTWsAMhX3vGSGBMLd2o9k.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ulR8PeukOGkqp92VRaMaBpjAs.png",
+        "alt": "Option Net Flow - DeepGamma Web. Example - How to Use Option Net Flow screenshot 10.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-exclusive/ulR8PeukOGkqp92VRaMaBpjAs.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_by_web_exclusive_research",
+        "inspection_reference": "research/web-exclusive-sources.json"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ]
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-profile-deepgamma-web",
+    "slug": "option-profile-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/HI9pjvaLxS9du8NGUWnZTLxcWRs.png",
+        "alt": "Option Profile - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/HI9pjvaLxS9du8NGUWnZTLxcWRs.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vRaHxuNXVsWPDNGSprnaCK0TpVk.png",
+        "alt": "Option Profile - DeepGamma Web. How to Add Option Profile screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vRaHxuNXVsWPDNGSprnaCK0TpVk.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "alt": "Option Profile - DeepGamma Web. General screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/F05iIYZ0RfP6BUt0qlZLsuuPIww.png",
+        "alt": "Option Profile - DeepGamma Web. General screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/F05iIYZ0RfP6BUt0qlZLsuuPIww.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/xjAVXn9eInCJRIVi0TJypL3rkxA.png",
+        "alt": "Option Profile - DeepGamma Web. General screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/xjAVXn9eInCJRIVi0TJypL3rkxA.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/xscVqNXkrT68FE0VzbtmC61RcWk.png",
+        "alt": "Option Profile - DeepGamma Web. Width / Offset screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/xscVqNXkrT68FE0VzbtmC61RcWk.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/JRJgJn7ZSdZINOd2xwWsutxEOlY.png",
+        "alt": "Option Profile - DeepGamma Web. Sizing screenshot 8.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/JRJgJn7ZSdZINOd2xwWsutxEOlY.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/b4PEcLG7qJybPqVPa6aFYrm2c3s.png",
+        "alt": "Option Profile - DeepGamma Web. Peak negative screenshot 9.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/b4PEcLG7qJybPqVPa6aFYrm2c3s.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/s643qWCIVYKCQINmS4ZyxAQwrYE.png",
+        "alt": "Option Profile - DeepGamma Web. Rolling condition screenshot 10.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/s643qWCIVYKCQINmS4ZyxAQwrYE.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Jm06g5dZFc2E1ioUupTsNF3J3pU.png",
+        "alt": "Option Profile - DeepGamma Web. Summary screenshot 11.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/Jm06g5dZFc2E1ioUupTsNF3J3pU.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/k2OnwcECyTA1ZqGI83Nto4KX38.png",
+        "alt": "Option Profile - DeepGamma Web. Strike grid (vertical only) screenshot 12.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/k2OnwcECyTA1ZqGI83Nto4KX38.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-profile-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-summary-deepgamma-web",
+    "slug": "option-summary-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/qYKn2pFzb7S9UCyE14X18BeI.png",
+        "alt": "Option Summary - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/qYKn2pFzb7S9UCyE14X18BeI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/F6Q2hUw1VJQmSk24QWYuubIxAac.png",
+        "alt": "Option Summary - DeepGamma Web. How to Add Option Summary screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/F6Q2hUw1VJQmSk24QWYuubIxAac.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Y32vxarfmdiW6gBdkOAox7003js.png",
+        "alt": "Option Summary - DeepGamma Web. Understanding the Indicator screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/Y32vxarfmdiW6gBdkOAox7003js.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "alt": "Option Summary - DeepGamma Web. Parameters screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/zqM94mXFGqx6ShnbUqUpaijvew.png",
+        "alt": "Option Summary - DeepGamma Web. Parameters screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/zqM94mXFGqx6ShnbUqUpaijvew.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/xzxXqfH5mcXLoX2h4S4MRsEsGo.png",
+        "alt": "Option Summary - DeepGamma Web. Series screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/xzxXqfH5mcXLoX2h4S4MRsEsGo.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/F5lm8P9bbdDzyrCfn36COEJmtE.png",
+        "alt": "Option Summary - DeepGamma Web. Example - How to Use Option Summary screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/F5lm8P9bbdDzyrCfn36COEJmtE.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-summary-gex-deepgamma-web",
+    "slug": "option-summary-gex-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/lMW1SiVVmmCWgUW8GILX2e1oU.png",
+        "alt": "Option Summary Gex - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/lMW1SiVVmmCWgUW8GILX2e1oU.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-gex-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/bSKPkALUuRlux7sr68F2jDYvY.png",
+        "alt": "Option Summary Gex - DeepGamma Web. How to Add Option Summary Gex screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/bSKPkALUuRlux7sr68F2jDYvY.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-gex-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "alt": "Option Summary Gex - DeepGamma Web. Parameters screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-gex-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/UV265oDlG97yvgXeMsz4qZl84.png",
+        "alt": "Option Summary Gex - DeepGamma Web. Parameters screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/UV265oDlG97yvgXeMsz4qZl84.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-gex-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/4YMGEYE6qlf8P2oZpJrhLb7CNcM.png",
+        "alt": "Option Summary Gex - DeepGamma Web. Series screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/4YMGEYE6qlf8P2oZpJrhLb7CNcM.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-gex-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/1M5c6ub7xxRYsbCApjm7IGiX0E.png",
+        "alt": "Option Summary Gex - DeepGamma Web. Combining with Other Indicators screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/1M5c6ub7xxRYsbCApjm7IGiX0E.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-gex-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-summary-gex-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/option-volume-deepgamma-web",
+    "slug": "option-volume-deepgamma-web",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/YT8PTpXIGjMlUbJ5XdAB6MKoqZs.png",
+        "alt": "Option Volume - DeepGamma Web. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/YT8PTpXIGjMlUbJ5XdAB6MKoqZs.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-volume-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/0wMLPB5HQuvXEAuZWgoTquf290.png",
+        "alt": "Option Volume - DeepGamma Web. How to Add Option Volume screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/0wMLPB5HQuvXEAuZWgoTquf290.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-volume-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "alt": "Option Volume - DeepGamma Web. Parameters screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/kxPPuC16aFqxTtDXLioLFnJRmW4.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-volume-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Ntr4cxn0Bijbd1Yi7GDF4EsMs10.png",
+        "alt": "Option Volume - DeepGamma Web. Series screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/Ntr4cxn0Bijbd1Yi7GDF4EsMs10.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-volume-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/DVVN2gwy0PvxG5C7kOTVUnimYk.png",
+        "alt": "Option Volume - DeepGamma Web. Series screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/DVVN2gwy0PvxG5C7kOTVUnimYk.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-volume-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ybhJfXjTbxEigjaDm5YLbRK7o.png",
+        "alt": "Option Volume - DeepGamma Web. Series screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/ybhJfXjTbxEigjaDm5YLbRK7o.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_14_article_contact_sheet_audit",
+        "inspection_reference": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-volume-deepgamma-web.jpg"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ],
+    "contact_sheet": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/contact-option-volume-deepgamma-web.jpg"
+  },
+  {
+    "url": "https://www.deepcharts.com/helpcenter/deepgamma-web/article/deepgamma-web-platform-overview",
+    "slug": "deepgamma-web-platform-overview",
+    "images": [
+      {
+        "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/lWHxgAf6m7wAPPLnGbCJITrZxw8.png",
+        "alt": "DeepGamma Web - Platform Overview. Platform interface screenshot 1.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/lWHxgAf6m7wAPPLnGbCJITrZxw8.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      },
+      {
+        "url": "https://framerusercontent.com/images/YHU4J1VCyyzXXeDObjZdwn2PfA.png",
+        "alt": "DeepGamma Web - Platform Overview. How to Access DeepGamma Web screenshot 2.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/YHU4J1VCyyzXXeDObjZdwn2PfA.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/5ZtDPIkdFFM9n8bfZkkg1bTqrxI.png",
+        "alt": "DeepGamma Web - Platform Overview. How to Access DeepGamma Web screenshot 3.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/5ZtDPIkdFFM9n8bfZkkg1bTqrxI.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/0rOcE5c49bem9rHKbDOxpOxfks.png",
+        "alt": "DeepGamma Web - Platform Overview. Top Bar screenshot 4.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/0rOcE5c49bem9rHKbDOxpOxfks.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/yLJG6Fp0TM6e5oLBSvmJnCaakME.png",
+        "alt": "DeepGamma Web - Platform Overview. Menu Bar screenshot 5.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/yLJG6Fp0TM6e5oLBSvmJnCaakME.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/aHzv7yLi3Bl3HjYd5fmvksnlak.png",
+        "alt": "DeepGamma Web - Platform Overview. Chart Quick Bar Buttons screenshot 6.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/aHzv7yLi3Bl3HjYd5fmvksnlak.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/jKpeSRouT5Y8k4nj7X1gGAf5fAA.png",
+        "alt": "DeepGamma Web - Platform Overview. Chart Quick Bar Buttons screenshot 7.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/jKpeSRouT5Y8k4nj7X1gGAf5fAA.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/hSguFP9FFKmurcHpUfm09naSU0.png",
+        "alt": "DeepGamma Web - Platform Overview. Platform Settings screenshot 8.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/hSguFP9FFKmurcHpUfm09naSU0.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/AG8HPRAMo2PK0T5iaKEgDVcWsqw.png",
+        "alt": "DeepGamma Web - Platform Overview. General Settings screenshot 9.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/AG8HPRAMo2PK0T5iaKEgDVcWsqw.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/JNK4upaUpJrypSEzUVuRwgFAU.png",
+        "alt": "DeepGamma Web - Platform Overview. HotKey Settings screenshot 10.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/JNK4upaUpJrypSEzUVuRwgFAU.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/zzGDCLjzktbtze7PUTUjYFZYZYs.png",
+        "alt": "DeepGamma Web - Platform Overview. Adding More Charts screenshot 11.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/zzGDCLjzktbtze7PUTUjYFZYZYs.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/nkcv2C8sj5RFcFfzijqUgcvYKX8.png",
+        "alt": "DeepGamma Web - Platform Overview. Adding More Charts screenshot 12.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/nkcv2C8sj5RFcFfzijqUgcvYKX8.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/2PWSTHiHoEL1g5SYhtztP2FXJY.png",
+        "alt": "DeepGamma Web - Platform Overview. Annotations and Right-Click Menu screenshot 13.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/2PWSTHiHoEL1g5SYhtztP2FXJY.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/mqoU4kpZCQg4cebKfqfARln3VA.png",
+        "alt": "DeepGamma Web - Platform Overview. Settings Quick Bar screenshot 14.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/mqoU4kpZCQg4cebKfqfARln3VA.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BqosZ0pAfUwyrBWkBsNzhXuFs.png",
+        "alt": "DeepGamma Web - Platform Overview. Session and Replay Tool screenshot 15.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BqosZ0pAfUwyrBWkBsNzhXuFs.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/8fekbebm5cy5qgVfTHXyPEEFRYw.png",
+        "alt": "DeepGamma Web - Platform Overview. Session and Replay Tool screenshot 16.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/8fekbebm5cy5qgVfTHXyPEEFRYw.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/0YSuMcRTxx0zxbGg6benubdHz6Y.png",
+        "alt": "DeepGamma Web - Platform Overview. To Futures Price screenshot 17.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/0YSuMcRTxx0zxbGg6benubdHz6Y.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/ZQuezojF2N8MDoW1IaiYkNSdvA0.png",
+        "alt": "DeepGamma Web - Platform Overview. Expirations screenshot 18.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/ZQuezojF2N8MDoW1IaiYkNSdvA0.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/Rzf7eW7OnvlMEnph1uo9PaTDbwM.png",
+        "alt": "DeepGamma Web - Platform Overview. Indicator Quick Toggles screenshot 19.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/Rzf7eW7OnvlMEnph1uo9PaTDbwM.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/NGhyjmTJVsLYxxw2z5JhUvLLEQ.png",
+        "alt": "DeepGamma Web - Platform Overview. Adding an Indicator screenshot 20.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/NGhyjmTJVsLYxxw2z5JhUvLLEQ.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/odWFRIabIyjWkiuq2AriVIUAEs.png",
+        "alt": "DeepGamma Web - Platform Overview. Adding an Indicator screenshot 21.",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/odWFRIabIyjWkiuq2AriVIUAEs.png",
+        "downloaded": true,
+        "visually_inspected": true,
+        "download_status": "available",
+        "inspection_status": "inspected_in_platform_contact_sheets_and_narrow_originals"
+      },
+      {
+        "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+        "alt": "",
+        "path": "/Users/huangjiangheng/Personal/deepgamma-docs/assets/web-platform/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+        "downloaded": true,
+        "visually_inspected": false,
+        "download_status": "available",
+        "inspection_status": "decorative_asset_not_used_as_indicator_evidence"
+      }
+    ]
+  }
+]

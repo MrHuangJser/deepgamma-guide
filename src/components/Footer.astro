@@ -1,0 +1,20 @@
+---
+import Default from '@astrojs/starlight/components/Footer.astro';
+---
+<Default><slot /></Default>
+<p class="dg-note">DeepGamma 独立研究指南 · 资料核验于 2026-10-29 · 教学例子不代表历史交易表现。产品与图片权利归各自权利人。</p>
+<dialog id="image-viewer" aria-label="查看原始图片"><button type="button" autofocus>关闭 ×</button><img alt="" /></dialog>
+<script>
+const dialog = document.querySelector<HTMLDialogElement>('#image-viewer');
+const preview = dialog?.querySelector('img');
+if (dialog && preview) {
+ const open = (img: HTMLImageElement) => { preview.src = img.src; preview.alt = img.alt; dialog.showModal(); };
+ document.querySelectorAll<HTMLImageElement>('.sl-markdown-content img').forEach(img => {
+   img.loading = 'lazy'; img.tabIndex = 0; img.setAttribute('role', 'button'); img.setAttribute('aria-label', `放大图片：${img.alt}`);
+   img.addEventListener('click', () => open(img));
+   img.addEventListener('keydown', event => { if(event.key === 'Enter' || event.key === ' ') { event.preventDefault(); open(img); } });
+ });
+ dialog.querySelector('button')?.addEventListener('click', () => dialog.close());
+ dialog.addEventListener('click', event => { if(event.target === dialog) dialog.close(); });
+}
+</script>

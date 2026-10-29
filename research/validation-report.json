@@ -1,0 +1,17 @@
+{
+  "checked_date": "2026-10-29",
+  "markdown_files_checked": 30,
+  "handbook_chapters": 27,
+  "individual_indicator_guides": 19,
+  "handbook_chapter_anchors_checked": 27,
+  "local_references_checked": 330,
+  "broken_local_references": [],
+  "characters_in_chapter_sources": 116693,
+  "checks": [
+    "19 cross-version unique indicators mapped to individual guides",
+    "14 desktop indicator guides plus a Web configuration supplement",
+    "all local Markdown file and image targets exist",
+    "chapter links rebased to the combined handbook directory"
+  ],
+  "limitations": "Local reference checks do not validate trading performance, external future availability or proprietary algorithms."
+}

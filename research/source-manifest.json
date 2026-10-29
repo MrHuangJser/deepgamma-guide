@@ -1,0 +1,2357 @@
+{
+  "checked_date": "2026-10-29",
+  "pages": [
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-big-flows",
+      "slug": "option-big-flows",
+      "title": "Option Big Flows - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/Ye1P4ZmUX59G77jOSuzVnO6eVQ.png",
+          "alt": "Option Big Flows indicator overview",
+          "local": "assets/images/Ye1P4ZmUX59G77jOSuzVnO6eVQ.png",
+          "width": 1380,
+          "height": 792
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "Option Big Flows: How to Add Option Big Flows",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/gGF6ZHJrByVAtSBRz5mU70eVG0.png",
+          "alt": "Option Big Flows: How to Add Option Big Flows 2",
+          "local": "assets/images/gGF6ZHJrByVAtSBRz5mU70eVG0.png",
+          "width": 1400,
+          "height": 532
+        },
+        {
+          "url": "https://framerusercontent.com/images/d1moAlO3pHhOQgkaMr8UF8ANZ0U.png",
+          "alt": "Option Big Flows: How to Add Option Big Flows 3",
+          "local": "assets/images/d1moAlO3pHhOQgkaMr8UF8ANZ0U.png",
+          "width": 1811,
+          "height": 1056
+        },
+        {
+          "url": "https://framerusercontent.com/images/XT3ghXxxZeEOLJSYXOsM7z3d4E.png",
+          "alt": "Option Big Flows: Understanding the Markers",
+          "local": "assets/images/XT3ghXxxZeEOLJSYXOsM7z3d4E.png",
+          "width": 1180,
+          "height": 569
+        },
+        {
+          "url": "https://framerusercontent.com/images/1DdYNJLRYSudim0jtYmlEq0uJlw.png",
+          "alt": "Option Big Flows: General",
+          "local": "assets/images/1DdYNJLRYSudim0jtYmlEq0uJlw.png",
+          "width": 693,
+          "height": 648
+        },
+        {
+          "url": "https://framerusercontent.com/images/YOKz026QYWWiWf2JIpAXugiVfs.png",
+          "alt": "Option Big Flows: Call Plot",
+          "local": "assets/images/YOKz026QYWWiWf2JIpAXugiVfs.png",
+          "width": 694,
+          "height": 768
+        },
+        {
+          "url": "https://framerusercontent.com/images/Wk3NfEKJB0rh2SzJc6RFHWlLI8k.png",
+          "alt": "Option Big Flows: Put Plot",
+          "local": "assets/images/Wk3NfEKJB0rh2SzJc6RFHWlLI8k.png",
+          "width": 698,
+          "height": 773
+        },
+        {
+          "url": "https://framerusercontent.com/images/VPM4HsB2dlWUmrPOKEG5Hi6cjQ.png",
+          "alt": "Option Big Flows: Put Plot 2",
+          "local": "assets/images/VPM4HsB2dlWUmrPOKEG5Hi6cjQ.png",
+          "width": 460,
+          "height": 226
+        },
+        {
+          "url": "https://framerusercontent.com/images/APQkUrSSd0WLuWrm42LjKNhliZw.png",
+          "alt": "Option Big Flows: Put Plot 3",
+          "local": "assets/images/APQkUrSSd0WLuWrm42LjKNhliZw.png",
+          "width": 574,
+          "height": 340
+        },
+        {
+          "url": "https://framerusercontent.com/images/BY3Lu5yNOU2fQOkHlAvev7uik.png",
+          "alt": "Option Big Flows: Put Plot 4",
+          "local": "assets/images/BY3Lu5yNOU2fQOkHlAvev7uik.png",
+          "width": 629,
+          "height": 323
+        },
+        {
+          "url": "https://framerusercontent.com/images/8S202zpB4tOrvfpRZLsErNc5rA.png",
+          "alt": "Option Big Flows: Put Plot 5",
+          "local": "assets/images/8S202zpB4tOrvfpRZLsErNc5rA.png",
+          "width": 594,
+          "height": 312
+        },
+        {
+          "url": "https://framerusercontent.com/images/LCELeuplN1Q7WCSCp2o3AgZlwaY.png",
+          "alt": "Option Big Flows: Size Settings",
+          "local": "assets/images/LCELeuplN1Q7WCSCp2o3AgZlwaY.png",
+          "width": 693,
+          "height": 513
+        },
+        {
+          "url": "https://framerusercontent.com/images/PfXul9y9IRCVEBYBU4W9NrflQVE.png",
+          "alt": "Option Big Flows: Example - How to Use Option Big Flows",
+          "local": "assets/images/PfXul9y9IRCVEBYBU4W9NrflQVE.png",
+          "width": 1028,
+          "height": 589
+        },
+        {
+          "url": "https://framerusercontent.com/images/C2SQqSytMkqUMwXc3RZ6DtQ5HE.png",
+          "alt": "Option Big Flows: Example - How to Use Option Big Flows 2",
+          "local": "assets/images/C2SQqSytMkqUMwXc3RZ6DtQ5HE.png",
+          "width": 1919,
+          "height": 1022
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-heatmap",
+        "https://www.deepcharts.com/helpcenter/article/option-expected-move",
+        "https://www.deepcharts.com/helpcenter/article/option-profile-deepchart",
+        "https://www.deepcharts.com/helpcenter/article/option-big-flows",
+        "https://www.deepcharts.com/helpcenter/article/option-levels",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-delta",
+      "slug": "option-delta",
+      "title": "Option Delta - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/ymAlT7cEiJbJPtTPSRoRfiQLd4.png",
+          "alt": "",
+          "local": "assets/images/ymAlT7cEiJbJPtTPSRoRfiQLd4.png",
+          "width": 1919,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "alt": "",
+          "local": "assets/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "width": 1400,
+          "height": 532
+        },
+        {
+          "url": "https://framerusercontent.com/images/HJRwgihQQ07SA35TfZcLiVrpc.png",
+          "alt": "",
+          "local": "assets/images/HJRwgihQQ07SA35TfZcLiVrpc.png",
+          "width": 1919,
+          "height": 1022
+        },
+        {
+          "url": "https://framerusercontent.com/images/eHcFcEPrtm21JyGBA8u2FKNqp4.png",
+          "alt": "",
+          "local": "assets/images/eHcFcEPrtm21JyGBA8u2FKNqp4.png",
+          "width": 819,
+          "height": 767
+        },
+        {
+          "url": "https://framerusercontent.com/images/Rc6EWJJu882iC9qyvw2DLaySlh4.png",
+          "alt": "",
+          "local": "assets/images/Rc6EWJJu882iC9qyvw2DLaySlh4.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/GYJKul7VeszEYhMfq9qSKb9fSTw.png",
+          "alt": "",
+          "local": "assets/images/GYJKul7VeszEYhMfq9qSKb9fSTw.png",
+          "width": 1919,
+          "height": 1018
+        },
+        {
+          "url": "https://framerusercontent.com/images/mw4vRX4IqfuVxaDFBPjPD38etms.png",
+          "alt": "",
+          "local": "assets/images/mw4vRX4IqfuVxaDFBPjPD38etms.png",
+          "width": 1918,
+          "height": 1022
+        },
+        {
+          "url": "https://framerusercontent.com/images/TOBSdyQQyicCtFozAAmPkW5jWyg.png",
+          "alt": "",
+          "local": "assets/images/TOBSdyQQyicCtFozAAmPkW5jWyg.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/9DJp7iMqffO45gHCrgQAwsA1d04.png",
+          "alt": "",
+          "local": "assets/images/9DJp7iMqffO45gHCrgQAwsA1d04.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/dT3bQLowGTUMrGdGAuKKWM5tiM.png",
+          "alt": "",
+          "local": "assets/images/dT3bQLowGTUMrGdGAuKKWM5tiM.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/8o8I2UbAKzd8OHYufacMXKVShMY.png",
+          "alt": "",
+          "local": "assets/images/8o8I2UbAKzd8OHYufacMXKVShMY.png",
+          "width": 868,
+          "height": 808
+        },
+        {
+          "url": "https://framerusercontent.com/images/5Sv2lmnoRL7qwRAg0W3lgZRK6k.png",
+          "alt": "",
+          "local": "assets/images/5Sv2lmnoRL7qwRAg0W3lgZRK6k.png",
+          "width": 1919,
+          "height": 1016
+        },
+        {
+          "url": "https://framerusercontent.com/images/qlVr2Z23GR9z6fWzlD2nSxrE.png",
+          "alt": "",
+          "local": "assets/images/qlVr2Z23GR9z6fWzlD2nSxrE.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/I26YysgExnCFEXTJyMgIe3QsYic.png",
+          "alt": "",
+          "local": "assets/images/I26YysgExnCFEXTJyMgIe3QsYic.png",
+          "width": 1916,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/hXdvVMibLQ3LKDpC91SPmmHA7k.png",
+          "alt": "",
+          "local": "assets/images/hXdvVMibLQ3LKDpC91SPmmHA7k.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-volume",
+        "https://www.deepcharts.com/helpcenter/article/option-levels-envelopes",
+        "https://www.deepcharts.com/helpcenter/article/option-delta",
+        "https://www.deepcharts.com/helpcenter/article/option-profile-deepchart",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-levels-envelopes",
+      "slug": "option-levels-envelopes",
+      "title": "Option Envelopes - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/CKY3f4w3l4SxYVDvRQUzuSJZm74.png",
+          "alt": "",
+          "local": "assets/images/CKY3f4w3l4SxYVDvRQUzuSJZm74.png",
+          "width": 1679,
+          "height": 895
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "alt": "",
+          "local": "assets/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "width": 1409,
+          "height": 535
+        },
+        {
+          "url": "https://framerusercontent.com/images/rkYBXGehvfV7wgnM1hF5BnMJJQ.png",
+          "alt": "",
+          "local": "assets/images/rkYBXGehvfV7wgnM1hF5BnMJJQ.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/2u2hTrlvQpZtaZLvAXywpcwI.png",
+          "alt": "",
+          "local": "assets/images/2u2hTrlvQpZtaZLvAXywpcwI.png",
+          "width": 868,
+          "height": 725
+        },
+        {
+          "url": "https://framerusercontent.com/images/LFWhhokszMMkQGx6MQ4VpRay8H4.png",
+          "alt": "",
+          "local": "assets/images/LFWhhokszMMkQGx6MQ4VpRay8H4.png",
+          "width": 839,
+          "height": 810
+        },
+        {
+          "url": "https://framerusercontent.com/images/xLhvg0F6S6rOV4YsMuRuiuDH3N4.png",
+          "alt": "",
+          "local": "assets/images/xLhvg0F6S6rOV4YsMuRuiuDH3N4.png",
+          "width": 837,
+          "height": 808
+        },
+        {
+          "url": "https://framerusercontent.com/images/PAyPSwfNWHxDAQ7CPdhoIcdQy1M.png",
+          "alt": "",
+          "local": "assets/images/PAyPSwfNWHxDAQ7CPdhoIcdQy1M.png",
+          "width": 843,
+          "height": 808
+        },
+        {
+          "url": "https://framerusercontent.com/images/PJsM2n15Q73NcryDiowj3PN2bpU.png",
+          "alt": "",
+          "local": "assets/images/PJsM2n15Q73NcryDiowj3PN2bpU.png",
+          "width": 1679,
+          "height": 895
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://www.deepcharts.com",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-delta",
+        "https://www.deepcharts.com/helpcenter/article/option-profile-deepchart",
+        "https://www.deepcharts.com/helpcenter/article/option-volume",
+        "https://www.deepcharts.com/helpcenter/article/option-levels-envelopes",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-heatmap",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-envelopes-advanced-deepchart",
+      "slug": "option-envelopes-advanced-deepchart",
+      "title": "Option Envelopes Advanced - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/ldoz96dA3aw6AKthsqIJ6BV6YA.png",
+          "alt": "",
+          "local": "assets/images/ldoz96dA3aw6AKthsqIJ6BV6YA.png",
+          "width": 1920,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "alt": "",
+          "local": "assets/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "width": 1400,
+          "height": 532
+        },
+        {
+          "url": "https://framerusercontent.com/images/6WpZVRiKISn2nrkQHgBsRX724Q.png",
+          "alt": "",
+          "local": "assets/images/6WpZVRiKISn2nrkQHgBsRX724Q.png",
+          "width": 1920,
+          "height": 1018
+        },
+        {
+          "url": "https://framerusercontent.com/images/HUe08Zff88vBxBCwXyptiT3nfQU.png",
+          "alt": "",
+          "local": "assets/images/HUe08Zff88vBxBCwXyptiT3nfQU.png",
+          "width": 850,
+          "height": 739
+        },
+        {
+          "url": "https://framerusercontent.com/images/SpWppOewBJOTrYOVJoZiLCutoSI.png",
+          "alt": "",
+          "local": "assets/images/SpWppOewBJOTrYOVJoZiLCutoSI.png",
+          "width": 1917,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/7bERfzVZWnlTeoJk1B9l5mQznTw.png",
+          "alt": "",
+          "local": "assets/images/7bERfzVZWnlTeoJk1B9l5mQznTw.png",
+          "width": 1920,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/7lAyzythqxxHG7tgp8729ts9jt8.png",
+          "alt": "",
+          "local": "assets/images/7lAyzythqxxHG7tgp8729ts9jt8.png",
+          "width": 1920,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/ufhKGIyhkeWztJG2MSefWimmbc.png",
+          "alt": "",
+          "local": "assets/images/ufhKGIyhkeWztJG2MSefWimmbc.png",
+          "width": 1920,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-summary-gex",
+        "https://www.deepcharts.com/helpcenter/article/option-volume",
+        "https://www.deepcharts.com/helpcenter/article/option-levels-advanced",
+        "https://www.deepcharts.com/helpcenter/article/option-envelopes-advanced-deepchart",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-expected-move",
+      "slug": "option-expected-move",
+      "title": "Option Expected Move - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/km3AbuPelFQpX2uUQKoCgZ47Ntg.png",
+          "alt": "Option Expected Move indicator overview",
+          "local": "assets/images/km3AbuPelFQpX2uUQKoCgZ47Ntg.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "Option Expected Move: How to Add Option Expected Move",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "alt": "Option Expected Move: How to Add Option Expected Move 2",
+          "local": "assets/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "width": 1409,
+          "height": 535
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmIWqCe1DjU5WFwNSJ9jf3x7g.png",
+          "alt": "Option Expected Move: How to Add Option Expected Move 3",
+          "local": "assets/images/zmIWqCe1DjU5WFwNSJ9jf3x7g.png",
+          "width": 1914,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/nU9jzwpvGEbiyd2Ua7FdWubFh7g.png",
+          "alt": "Option Expected Move: Understanding the Band",
+          "local": "assets/images/nU9jzwpvGEbiyd2Ua7FdWubFh7g.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/zihf8XmDBpT52fhbPdV5oT5B76A.png",
+          "alt": "Option Expected Move: Parameters",
+          "local": "assets/images/zihf8XmDBpT52fhbPdV5oT5B76A.png",
+          "width": 842,
+          "height": 664
+        },
+        {
+          "url": "https://framerusercontent.com/images/veNypXy7ji6V7AKs8h0aCWaWKc.png",
+          "alt": "Option Expected Move: Subgraphs",
+          "local": "assets/images/veNypXy7ji6V7AKs8h0aCWaWKc.png",
+          "width": 1919,
+          "height": 1017
+        },
+        {
+          "url": "https://framerusercontent.com/images/XbxKTNbCmvyI0KifhS6qD0ECKg.png",
+          "alt": "Option Expected Move: Subgraphs 2",
+          "local": "assets/images/XbxKTNbCmvyI0KifhS6qD0ECKg.png",
+          "width": 1919,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/hDby6XLfusOt0FLHF5anjbxtG18.png",
+          "alt": "Option Expected Move: Subgraphs 3",
+          "local": "assets/images/hDby6XLfusOt0FLHF5anjbxtG18.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/0Nlh3d2oDBYt3u6xVnyB8UwR8w.png",
+          "alt": "Option Expected Move: Example - How to Use Option Expected Move",
+          "local": "assets/images/0Nlh3d2oDBYt3u6xVnyB8UwR8w.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-big-flows",
+        "https://www.deepcharts.com/helpcenter/article/option-levels",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-heatmap",
+        "https://www.deepcharts.com/helpcenter/article/option-expected-move",
+        "https://www.deepcharts.com/helpcenter/article/option-summary",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-gex-heatmap",
+      "slug": "option-gex-heatmap",
+      "title": "Option Gex Heatmap - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/MdHw27oDVOeoaU5Fh2uJNzpxDc.png",
+          "alt": "",
+          "local": "assets/images/MdHw27oDVOeoaU5Fh2uJNzpxDc.png",
+          "width": 1919,
+          "height": 1022
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "alt": "",
+          "local": "assets/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "width": 1400,
+          "height": 532
+        },
+        {
+          "url": "https://framerusercontent.com/images/3F9jg0ogV6BoS2n3Ht4NU5m3D8.png",
+          "alt": "",
+          "local": "assets/images/3F9jg0ogV6BoS2n3Ht4NU5m3D8.png",
+          "width": 1920,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/DiaE9FGFFlHaznlq90czlQdkaT8.png",
+          "alt": "",
+          "local": "assets/images/DiaE9FGFFlHaznlq90czlQdkaT8.png",
+          "width": 1198,
+          "height": 212
+        },
+        {
+          "url": "https://framerusercontent.com/images/D9ITvKhhBuKExJ7x7IagGEZVg.png",
+          "alt": "",
+          "local": "assets/images/D9ITvKhhBuKExJ7x7IagGEZVg.png",
+          "width": 1919,
+          "height": 1022
+        },
+        {
+          "url": "https://framerusercontent.com/images/newRUKzPNESHI6SfxdDbcUoD3k.png",
+          "alt": "",
+          "local": "assets/images/newRUKzPNESHI6SfxdDbcUoD3k.png",
+          "width": 871,
+          "height": 641
+        },
+        {
+          "url": "https://framerusercontent.com/images/vGPdT8SVxMSpa2Ukpf8AEiTN3Q.png",
+          "alt": "",
+          "local": "assets/images/vGPdT8SVxMSpa2Ukpf8AEiTN3Q.png",
+          "width": 872,
+          "height": 807
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://www.deepcharts.com",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-profile-deepchart",
+        "https://www.deepcharts.com/helpcenter/article/option-big-flows",
+        "https://www.deepcharts.com/helpcenter/article/option-levels-envelopes",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-heatmap",
+        "https://www.deepcharts.com/helpcenter/article/option-expected-move",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-gex-profile",
+      "slug": "option-gex-profile",
+      "title": "Option GEX Profile - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/RHh1tTenvVTvYfquHRYI3hYlXj8.png",
+          "alt": "",
+          "local": "assets/images/RHh1tTenvVTvYfquHRYI3hYlXj8.png",
+          "width": 1917,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "alt": "",
+          "local": "assets/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "width": 1400,
+          "height": 532
+        },
+        {
+          "url": "https://framerusercontent.com/images/ADErM6G1Ijql0PD7nnUQ45flAA.png",
+          "alt": "",
+          "local": "assets/images/ADErM6G1Ijql0PD7nnUQ45flAA.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/rfdZARP01OQD6BAeRXvQjVqWf8.png",
+          "alt": "",
+          "local": "assets/images/rfdZARP01OQD6BAeRXvQjVqWf8.png",
+          "width": 1236,
+          "height": 207
+        },
+        {
+          "url": "https://framerusercontent.com/images/lJQOnWRTCl7nrnBSd3QI7Ub6YNw.png",
+          "alt": "",
+          "local": "assets/images/lJQOnWRTCl7nrnBSd3QI7Ub6YNw.png",
+          "width": 1917,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/tzlMqG9jINbONtZscslkHDQ.png",
+          "alt": "",
+          "local": "assets/images/tzlMqG9jINbONtZscslkHDQ.png",
+          "width": 872,
+          "height": 547
+        },
+        {
+          "url": "https://framerusercontent.com/images/vowSzKI0uTJekgbDjJ1RtVCmmg.png",
+          "alt": "",
+          "local": "assets/images/vowSzKI0uTJekgbDjJ1RtVCmmg.png",
+          "width": 871,
+          "height": 809
+        },
+        {
+          "url": "https://framerusercontent.com/images/hKje6XZR11LytSBMw6Q5vtXKDiM.png",
+          "alt": "",
+          "local": "assets/images/hKje6XZR11LytSBMw6Q5vtXKDiM.png",
+          "width": 870,
+          "height": 884
+        },
+        {
+          "url": "https://framerusercontent.com/images/S4lIzFUtnsevUQx9VqO9gmquwS0.png",
+          "alt": "",
+          "local": "assets/images/S4lIzFUtnsevUQx9VqO9gmquwS0.png",
+          "width": 1919,
+          "height": 1022
+        },
+        {
+          "url": "https://framerusercontent.com/images/Y8Jh9M4GBJ4NhfsHTKXRLVVogHE.png",
+          "alt": "",
+          "local": "assets/images/Y8Jh9M4GBJ4NhfsHTKXRLVVogHE.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/e6vS4zhscLVIag6m8on6ocoCk.png",
+          "alt": "",
+          "local": "assets/images/e6vS4zhscLVIag6m8on6ocoCk.png",
+          "width": 1919,
+          "height": 1018
+        },
+        {
+          "url": "https://framerusercontent.com/images/Wv2ZGIZZYcRYDItD8Y8rhUcOo.png",
+          "alt": "",
+          "local": "assets/images/Wv2ZGIZZYcRYDItD8Y8rhUcOo.png",
+          "width": 1919,
+          "height": 1022
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-summary",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-profile-hedging-de",
+        "https://www.deepcharts.com/helpcenter/article/option-levels",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-profile",
+        "https://www.deepcharts.com/helpcenter/article/option-levels-advanced",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-gex-profile-hedging-de",
+      "slug": "option-gex-profile-hedging-de",
+      "title": "Option GEX Profile Hedging - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/bWhuPB8uAqZCYh2VPTp0pm4qc.png",
+          "alt": "Option GEX Profile Hedging indicator overview",
+          "local": "assets/images/bWhuPB8uAqZCYh2VPTp0pm4qc.png",
+          "width": 1919,
+          "height": 1018
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "Option GEX Profile Hedging: How to Add Option Gex Profile Hedging",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "alt": "Option GEX Profile Hedging: How to Add Option Gex Profile Hedging 2",
+          "local": "assets/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "width": 1400,
+          "height": 532
+        },
+        {
+          "url": "https://framerusercontent.com/images/fcw0BQdLdsxfBhHB4vt53SG8EMw.png",
+          "alt": "Option GEX Profile Hedging: How to Add Option Gex Profile Hedging 3",
+          "local": "assets/images/fcw0BQdLdsxfBhHB4vt53SG8EMw.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/RyPYYq0cbDMChzCHv6FbH4FYs.png",
+          "alt": "Option GEX Profile Hedging: Understanding the Profile",
+          "local": "assets/images/RyPYYq0cbDMChzCHv6FbH4FYs.png",
+          "width": 1919,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/VAt4ZbYxnDZkoE3UF3sOJlsQ.png",
+          "alt": "Option GEX Profile Hedging: Colors",
+          "local": "assets/images/VAt4ZbYxnDZkoE3UF3sOJlsQ.png",
+          "width": 836,
+          "height": 600
+        },
+        {
+          "url": "https://framerusercontent.com/images/3wLJISYKoAs3TQ0yhjRVPWXrxU.png",
+          "alt": "Option GEX Profile Hedging: Plot Settings",
+          "local": "assets/images/3wLJISYKoAs3TQ0yhjRVPWXrxU.png",
+          "width": 839,
+          "height": 902
+        },
+        {
+          "url": "https://framerusercontent.com/images/COTzuCfXlbNtWtccWOJ2NbBFcQ.png",
+          "alt": "Option GEX Profile Hedging: Example - How to Use Option Gex Profile Hedging",
+          "local": "assets/images/COTzuCfXlbNtWtccWOJ2NbBFcQ.png",
+          "width": 1919,
+          "height": 1018
+        },
+        {
+          "url": "https://framerusercontent.com/images/FpYKXm3EVMb9UwhXD9CZ3gz6Q.png",
+          "alt": "Option GEX Profile Hedging: Example - How to Use Option Gex Profile Hedging 2",
+          "local": "assets/images/FpYKXm3EVMb9UwhXD9CZ3gz6Q.png",
+          "width": 1916,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-profile",
+        "https://www.deepcharts.com/helpcenter/article/option-levels-advanced",
+        "https://www.deepcharts.com/helpcenter/article/option-summary",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-profile-hedging-de",
+        "https://www.deepcharts.com/helpcenter/article/option-summary-gex",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-levels",
+      "slug": "option-levels",
+      "title": "Option Levels - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/adT8WNpn7EQ34x6GIdnz6hZNlZ0.png",
+          "alt": "",
+          "local": "assets/images/adT8WNpn7EQ34x6GIdnz6hZNlZ0.png",
+          "width": 1917,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "alt": "",
+          "local": "assets/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "width": 1409,
+          "height": 535
+        },
+        {
+          "url": "https://framerusercontent.com/images/Mn414EcwqwDO3GbLHiP9cJh3Zk.png",
+          "alt": "",
+          "local": "assets/images/Mn414EcwqwDO3GbLHiP9cJh3Zk.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/y7OSyaYjaeT3AuoBliN9CrOqs8Y.png",
+          "alt": "",
+          "local": "assets/images/y7OSyaYjaeT3AuoBliN9CrOqs8Y.png",
+          "width": 1919,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/hAtdF3tNbjA3sO533gOesIXj0z0.png",
+          "alt": "",
+          "local": "assets/images/hAtdF3tNbjA3sO533gOesIXj0z0.png",
+          "width": 870,
+          "height": 685
+        },
+        {
+          "url": "https://framerusercontent.com/images/GZnnhvQOiF4LJjG7ktn6K6fWCM.png",
+          "alt": "",
+          "local": "assets/images/GZnnhvQOiF4LJjG7ktn6K6fWCM.png",
+          "width": 686,
+          "height": 214
+        },
+        {
+          "url": "https://framerusercontent.com/images/KNkBZswvUjX6osaKIlrlKJ9nZc.png",
+          "alt": "",
+          "local": "assets/images/KNkBZswvUjX6osaKIlrlKJ9nZc.png",
+          "width": 833,
+          "height": 954
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-expected-move",
+        "https://www.deepcharts.com/helpcenter/article/option-summary",
+        "https://www.deepcharts.com/helpcenter/article/option-big-flows",
+        "https://www.deepcharts.com/helpcenter/article/option-levels",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-profile",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-levels-advanced",
+      "slug": "option-levels-advanced",
+      "title": "Option Levels Advanced - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/PB8CbX9vNXkXRCfGzzJuIMfG6g.png",
+          "alt": "",
+          "local": "assets/images/PB8CbX9vNXkXRCfGzzJuIMfG6g.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "alt": "",
+          "local": "assets/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "width": 1400,
+          "height": 532
+        },
+        {
+          "url": "https://framerusercontent.com/images/BnMtTxXDsehpevvDWb0fN9u7fE.png",
+          "alt": "",
+          "local": "assets/images/BnMtTxXDsehpevvDWb0fN9u7fE.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/qQypzsqHnTZ2YCFEkDHfDrFhoc.png",
+          "alt": "",
+          "local": "assets/images/qQypzsqHnTZ2YCFEkDHfDrFhoc.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/w3QV5D5gWqqCMdnDa6CWvcuIwI.png",
+          "alt": "",
+          "local": "assets/images/w3QV5D5gWqqCMdnDa6CWvcuIwI.png",
+          "width": 869,
+          "height": 519
+        },
+        {
+          "url": "https://framerusercontent.com/images/I5PlTqwdKwwWsLTF0QWc0GcjZJk.png",
+          "alt": "",
+          "local": "assets/images/I5PlTqwdKwwWsLTF0QWc0GcjZJk.png",
+          "width": 649,
+          "height": 124
+        },
+        {
+          "url": "https://framerusercontent.com/images/hEQ7VOcJ05rzmv6CA2NEJlX2Q.png",
+          "alt": "",
+          "local": "assets/images/hEQ7VOcJ05rzmv6CA2NEJlX2Q.png",
+          "width": 842,
+          "height": 906
+        },
+        {
+          "url": "https://framerusercontent.com/images/YsqiZ9v3dVTXNeI0ZZsZD29M8s.png",
+          "alt": "",
+          "local": "assets/images/YsqiZ9v3dVTXNeI0ZZsZD29M8s.png",
+          "width": 1919,
+          "height": 1017
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://www.deepcharts.com",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-profile-hedging-de",
+        "https://www.deepcharts.com/helpcenter/article/option-summary-gex",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-profile",
+        "https://www.deepcharts.com/helpcenter/article/option-levels-advanced",
+        "https://www.deepcharts.com/helpcenter/article/option-envelopes-advanced-deepchart",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-profile-deepchart",
+      "slug": "option-profile-deepchart",
+      "title": "Option Profile - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/W7D5eafPeLDxTsjzKqSiC6r9UQ.png",
+          "alt": "Option Profile indicator overview",
+          "local": "assets/images/W7D5eafPeLDxTsjzKqSiC6r9UQ.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "Option Profile: How to Add Option Profile",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "alt": "Option Profile: How to Add Option Profile 2",
+          "local": "assets/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "width": 1409,
+          "height": 535
+        },
+        {
+          "url": "https://framerusercontent.com/images/GlkxJzqXFSpywrisAv97zclRC4.png",
+          "alt": "Option Profile: How to Add Option Profile 3",
+          "local": "assets/images/GlkxJzqXFSpywrisAv97zclRC4.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/kik17uFf6Nv3UxFD2OhbsFSVUE.png",
+          "alt": "Option Profile: How to Add Option Profile 4",
+          "local": "assets/images/kik17uFf6Nv3UxFD2OhbsFSVUE.png",
+          "width": 1145,
+          "height": 162
+        },
+        {
+          "url": "https://framerusercontent.com/images/8S0f81OG77O6MwmUSynUXnn0fXs.png",
+          "alt": "Option Profile: Understanding the Profile",
+          "local": "assets/images/8S0f81OG77O6MwmUSynUXnn0fXs.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/dP6IidNbykYEOqYdocyMw7VjA3E.png",
+          "alt": "Option Profile: General",
+          "local": "assets/images/dP6IidNbykYEOqYdocyMw7VjA3E.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/7jKGuDqiR6Nb4duXqjZAtgb7g0.png",
+          "alt": "Option Profile: General 2",
+          "local": "assets/images/7jKGuDqiR6Nb4duXqjZAtgb7g0.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/KX76jpC0GKH3zgrq5jF1JK63wZ4.png",
+          "alt": "Option Profile: General 3",
+          "local": "assets/images/KX76jpC0GKH3zgrq5jF1JK63wZ4.png",
+          "width": 1919,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/jbyKd8FqjoJGAzVmM5JS6YXaXc.png",
+          "alt": "Option Profile: General 4",
+          "local": "assets/images/jbyKd8FqjoJGAzVmM5JS6YXaXc.png",
+          "width": 1919,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/UHDGCoLrdmhfEVtcq7kiH0X5cQ.png",
+          "alt": "Option Profile: General 5",
+          "local": "assets/images/UHDGCoLrdmhfEVtcq7kiH0X5cQ.png",
+          "width": 873,
+          "height": 524
+        },
+        {
+          "url": "https://framerusercontent.com/images/EhYqsrMeisWP4vPR9bkWGWun1g.png",
+          "alt": "Option Profile: General 6",
+          "local": "assets/images/EhYqsrMeisWP4vPR9bkWGWun1g.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/6lJ1oJWT8UL5O4VFXN8avswoqdE.png",
+          "alt": "Option Profile: Background/Text",
+          "local": "assets/images/6lJ1oJWT8UL5O4VFXN8avswoqdE.png",
+          "width": 775,
+          "height": 778
+        },
+        {
+          "url": "https://framerusercontent.com/images/3M63gml7W5trm8Lk9akFq8iUWI.png",
+          "alt": "Option Profile: Plot Settings",
+          "local": "assets/images/3M63gml7W5trm8Lk9akFq8iUWI.png",
+          "width": 871,
+          "height": 904
+        },
+        {
+          "url": "https://framerusercontent.com/images/pjIfqJZ051ovXT1uoQX88mLbFE.png",
+          "alt": "Option Profile: Peak",
+          "local": "assets/images/pjIfqJZ051ovXT1uoQX88mLbFE.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/Lo5KccxUIWpR0eKWHthitP5sI8.png",
+          "alt": "Option Profile: Rolling Values",
+          "local": "assets/images/Lo5KccxUIWpR0eKWHthitP5sI8.png",
+          "width": 686,
+          "height": 964
+        },
+        {
+          "url": "https://framerusercontent.com/images/GkESPr76raLsucBnP276lNb3UPo.png",
+          "alt": "Option Profile: Rolling Values 2",
+          "local": "assets/images/GkESPr76raLsucBnP276lNb3UPo.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/5F9J2kVh8bodahv5XZttnA8ok.png",
+          "alt": "Option Profile: Summary",
+          "local": "assets/images/5F9J2kVh8bodahv5XZttnA8ok.png",
+          "width": 1919,
+          "height": 1018
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-levels-envelopes",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-heatmap",
+        "https://www.deepcharts.com/helpcenter/article/option-delta",
+        "https://www.deepcharts.com/helpcenter/article/option-profile-deepchart",
+        "https://www.deepcharts.com/helpcenter/article/option-big-flows",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-summary",
+      "slug": "option-summary",
+      "title": "Option Summary - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/a0OBa037eI31t8aazVqwDrXDPvI.png",
+          "alt": "",
+          "local": "assets/images/a0OBa037eI31t8aazVqwDrXDPvI.png",
+          "width": 1919,
+          "height": 1018
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "alt": "",
+          "local": "assets/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "width": 1409,
+          "height": 535
+        },
+        {
+          "url": "https://framerusercontent.com/images/VfDsRvveUXlrbI4kEkJFyliZ4.png",
+          "alt": "",
+          "local": "assets/images/VfDsRvveUXlrbI4kEkJFyliZ4.png",
+          "width": 1919,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/BqIczpIHVJgo2qkLhQiULPLj06g.png",
+          "alt": "",
+          "local": "assets/images/BqIczpIHVJgo2qkLhQiULPLj06g.png",
+          "width": 873,
+          "height": 579
+        },
+        {
+          "url": "https://framerusercontent.com/images/Pa7odXIBN0ubGQ5m2yo0C9zOc.png",
+          "alt": "",
+          "local": "assets/images/Pa7odXIBN0ubGQ5m2yo0C9zOc.png",
+          "width": 1912,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/bW96N9YpsQUFjoGYywOfLfmG7T8.png",
+          "alt": "",
+          "local": "assets/images/bW96N9YpsQUFjoGYywOfLfmG7T8.png",
+          "width": 868,
+          "height": 791
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://www.deepcharts.com",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-levels",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-profile",
+        "https://www.deepcharts.com/helpcenter/article/option-expected-move",
+        "https://www.deepcharts.com/helpcenter/article/option-summary",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-profile-hedging-de",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-summary-gex",
+      "slug": "option-summary-gex",
+      "title": "Option Summary Gex - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/rDieXPPgDBso88cwPCg9hRB4NzQ.png",
+          "alt": "",
+          "local": "assets/images/rDieXPPgDBso88cwPCg9hRB4NzQ.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "alt": "",
+          "local": "assets/images/ouzlYAwK7gMwiLZLg6JNWP83fk.png",
+          "width": 1400,
+          "height": 532
+        },
+        {
+          "url": "https://framerusercontent.com/images/1E2ykPKyTXvPXk2mKidvjnEgBLM.png",
+          "alt": "",
+          "local": "assets/images/1E2ykPKyTXvPXk2mKidvjnEgBLM.png",
+          "width": 1907,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/C5C85vzlTleNPfKZRA7lSVxzNNc.png",
+          "alt": "",
+          "local": "assets/images/C5C85vzlTleNPfKZRA7lSVxzNNc.png",
+          "width": 871,
+          "height": 654
+        },
+        {
+          "url": "https://framerusercontent.com/images/VryMpBIHd9y0Q0SrDxHBpp1HS0w.png",
+          "alt": "",
+          "local": "assets/images/VryMpBIHd9y0Q0SrDxHBpp1HS0w.png",
+          "width": 1910,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/fXP5bCJBfue8Lz01YG7SYcpMZg.png",
+          "alt": "",
+          "local": "assets/images/fXP5bCJBfue8Lz01YG7SYcpMZg.png",
+          "width": 873,
+          "height": 777
+        },
+        {
+          "url": "https://framerusercontent.com/images/GcdDfHfhrA2s8C7mhtqb7OUYw.png",
+          "alt": "",
+          "local": "assets/images/GcdDfHfhrA2s8C7mhtqb7OUYw.png",
+          "width": 1919,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://www.deepcharts.com",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-levels-advanced",
+        "https://www.deepcharts.com/helpcenter/article/option-envelopes-advanced-deepchart",
+        "https://www.deepcharts.com/helpcenter/article/option-gex-profile-hedging-de",
+        "https://www.deepcharts.com/helpcenter/article/option-summary-gex",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/helpcenter/article/option-volume",
+      "slug": "option-volume",
+      "title": "Option Volume - DeepChart ",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png?width=1402&height=240",
+          "alt": "",
+          "local": "assets/images/l3hKrMcsawv1g3kPmVz8SyP6N2U.png",
+          "width": 1402,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/elkQ74cDIP64sE0zpDMBuYDbv88.png",
+          "alt": "",
+          "local": "assets/images/elkQ74cDIP64sE0zpDMBuYDbv88.png",
+          "width": 1919,
+          "height": 1021
+        },
+        {
+          "url": "https://framerusercontent.com/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "alt": "",
+          "local": "assets/images/vx7XfxZcM7R2AMk0CIWj7JiIg.png",
+          "width": 2400,
+          "height": 2
+        },
+        {
+          "url": "https://framerusercontent.com/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "alt": "",
+          "local": "assets/images/zmlvkp26XVDtbsYDzXeOU3UBU.png",
+          "width": 1411,
+          "height": 336
+        },
+        {
+          "url": "https://framerusercontent.com/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "alt": "",
+          "local": "assets/images/3cfQJRD0sMQCZVmqAiBz1DbTG0I.png",
+          "width": 1409,
+          "height": 535
+        },
+        {
+          "url": "https://framerusercontent.com/images/IkAb2mCVPWXTO2jV3gtlc702Q.png",
+          "alt": "",
+          "local": "assets/images/IkAb2mCVPWXTO2jV3gtlc702Q.png",
+          "width": 1920,
+          "height": 1019
+        },
+        {
+          "url": "https://framerusercontent.com/images/s9xh4lEvj9NYO5cDZNaM9h0qv1U.png",
+          "alt": "",
+          "local": "assets/images/s9xh4lEvj9NYO5cDZNaM9h0qv1U.png",
+          "width": 869,
+          "height": 560
+        },
+        {
+          "url": "https://framerusercontent.com/images/ezbnXIbUxdAnB99NZGC4lRXPzQ.png",
+          "alt": "",
+          "local": "assets/images/ezbnXIbUxdAnB99NZGC4lRXPzQ.png",
+          "width": 836,
+          "height": 810
+        },
+        {
+          "url": "https://framerusercontent.com/images/HVpD4FZr34T5yTqv78jSmgehtc.png",
+          "alt": "",
+          "local": "assets/images/HVpD4FZr34T5yTqv78jSmgehtc.png",
+          "width": 832,
+          "height": 806
+        },
+        {
+          "url": "https://framerusercontent.com/images/FgDD2wxwbvaJmGBn3tTmrOmro.png",
+          "alt": "",
+          "local": "assets/images/FgDD2wxwbvaJmGBn3tTmrOmro.png",
+          "width": 837,
+          "height": 811
+        },
+        {
+          "url": "https://framerusercontent.com/images/pHrOFP7KgCsD40jk39WjPoUJUhM.png",
+          "alt": "",
+          "local": "assets/images/pHrOFP7KgCsD40jk39WjPoUJUhM.png",
+          "width": 1869,
+          "height": 281
+        },
+        {
+          "url": "https://framerusercontent.com/images/BYtowwLZq3epwnbCLoqiAUsVKVs.png",
+          "alt": "",
+          "local": "assets/images/BYtowwLZq3epwnbCLoqiAUsVKVs.png",
+          "width": 1919,
+          "height": 1020
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/helpcenter/deepdom",
+        "https://www.deepcharts.com/helpcenter/deepgamma",
+        "https://www.deepcharts.com",
+        "https://salesiq.zohopublic.com/signaturesupport.ls?widgetcode=siqb706cd5e71548e36c91a37a55def4b519d383f74642b7778eed43847226f5c51db4547ab2cb37a1b6bc194e9e1dffaf5",
+        "mailto:support@deepcharts.com",
+        "https://www.deepcharts.com/helpcenter/article/option-envelopes-advanced-deepchart",
+        "https://www.deepcharts.com/helpcenter/article/option-delta",
+        "https://www.deepcharts.com/helpcenter/article/option-volume",
+        "https://www.deepcharts.com/helpcenter/article/option-levels-envelopes",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/datafeeds",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/features/deepgamma",
+      "slug": "features-deepgamma",
+      "title": "DeepGamma Features",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/kqfE4jpMz1Zg9StEsyUPSBWPd68.png?width=1019&height=1599",
+          "alt": "",
+          "local": "assets/images/kqfE4jpMz1Zg9StEsyUPSBWPd68.png",
+          "width": 1019,
+          "height": 1599
+        },
+        {
+          "url": "https://framerusercontent.com/images/3XprnxF0r53XsleC4AuCPwV5cdk.png?width=807&height=384",
+          "alt": "",
+          "local": "assets/images/3XprnxF0r53XsleC4AuCPwV5cdk.png",
+          "width": 807,
+          "height": 384
+        },
+        {
+          "url": "https://framerusercontent.com/images/UfxgDFftY8kdKBjxFLFPoGmChA.png?width=6092&height=6904",
+          "alt": "",
+          "local": "assets/images/UfxgDFftY8kdKBjxFLFPoGmChA.png",
+          "width": 6092,
+          "height": 6904
+        },
+        {
+          "url": "https://framerusercontent.com/images/T5eECtHkVxteAihtcQ5fic9riUk.png?width=1304&height=220",
+          "alt": "",
+          "local": "assets/images/T5eECtHkVxteAihtcQ5fic9riUk.png",
+          "width": 1304,
+          "height": 220
+        },
+        {
+          "url": "https://framerusercontent.com/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png?width=1272&height=240",
+          "alt": "",
+          "local": "assets/images/2jeVBsTtf6WEpFiPu0rF7M2xhNI.png",
+          "width": 1272,
+          "height": 240
+        },
+        {
+          "url": "https://framerusercontent.com/images/cD4j2si6H4dEo4206KAZZ4mcjI.webp?width=2000&height=1078",
+          "alt": "",
+          "local": "assets/images/cD4j2si6H4dEo4206KAZZ4mcjI.webp",
+          "width": 2000,
+          "height": 1078
+        },
+        {
+          "url": "https://framerusercontent.com/images/MO7gLwrZASOfCuQcAppvNowV3IQ.png?width=2700&height=1726",
+          "alt": "",
+          "local": "assets/images/MO7gLwrZASOfCuQcAppvNowV3IQ.png",
+          "width": 2700,
+          "height": 1726
+        },
+        {
+          "url": "https://framerusercontent.com/images/mCShh9NyY6JSOrSITRpDQiU8OOk.webp?width=2000&height=884",
+          "alt": "",
+          "local": "assets/images/mCShh9NyY6JSOrSITRpDQiU8OOk.webp",
+          "width": 2000,
+          "height": 884
+        },
+        {
+          "url": "https://framerusercontent.com/images/VsSFfexAGsmsvswx0Bw4IbJlspc.png?width=1592&height=904",
+          "alt": "",
+          "local": "assets/images/VsSFfexAGsmsvswx0Bw4IbJlspc.png",
+          "width": 1592,
+          "height": 904
+        },
+        {
+          "url": "https://framerusercontent.com/images/c0cbpPKo44fxrV3OQYMl991Wk6Q.png?width=748&height=142",
+          "alt": "",
+          "local": "assets/images/c0cbpPKo44fxrV3OQYMl991Wk6Q.png",
+          "width": 748,
+          "height": 142
+        },
+        {
+          "url": "https://framerusercontent.com/images/Hv3DcLRVOHZh6HyPww6bcKYyo.png?width=2208&height=1212",
+          "alt": "",
+          "local": "assets/images/Hv3DcLRVOHZh6HyPww6bcKYyo.png",
+          "width": 2208,
+          "height": 1212
+        },
+        {
+          "url": "https://framerusercontent.com/images/Ay7IxlSbz6HkUaJeluRgu4XQKQ.png?width=1530&height=527",
+          "alt": "",
+          "local": "assets/images/Ay7IxlSbz6HkUaJeluRgu4XQKQ.png",
+          "width": 1530,
+          "height": 527
+        },
+        {
+          "url": "https://framerusercontent.com/images/Gi4aQpzEzEepsFcfWPcr77hbeE.png?width=2052&height=994",
+          "alt": "",
+          "local": "assets/images/Gi4aQpzEzEepsFcfWPcr77hbeE.png",
+          "width": 2052,
+          "height": 994
+        },
+        {
+          "url": "https://framerusercontent.com/images/uYsacHpEFwaJRKUJ4rjF1t5ZrI.png?width=2216&height=1238",
+          "alt": "",
+          "local": "assets/images/uYsacHpEFwaJRKUJ4rjF1t5ZrI.png",
+          "width": 2216,
+          "height": 1238
+        },
+        {
+          "url": "https://framerusercontent.com/images/zByPkWr9xuGvGVO3PJRwfDzBI4I.png?width=1920&height=1080",
+          "alt": "",
+          "local": "assets/images/zByPkWr9xuGvGVO3PJRwfDzBI4I.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "video",
+          "src": "https://framerusercontent.com/assets/xvNlJ0HIfb4IGyaa3z1y6POboM.mp4"
+        },
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/pricing/deepgamma-web",
+        "https://www.deepcharts.com/e-book",
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/datafeeds",
+        "https://my.deepcharts.com/",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/changelog",
+      "slug": "changelog",
+      "title": "Deepcharts Changelog",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/kqfE4jpMz1Zg9StEsyUPSBWPd68.png?width=1019&height=1599",
+          "alt": "",
+          "local": "assets/images/kqfE4jpMz1Zg9StEsyUPSBWPd68.png",
+          "width": 1019,
+          "height": 1599
+        },
+        {
+          "url": "https://framerusercontent.com/images/3XprnxF0r53XsleC4AuCPwV5cdk.png?width=807&height=384",
+          "alt": "",
+          "local": "assets/images/3XprnxF0r53XsleC4AuCPwV5cdk.png",
+          "width": 807,
+          "height": 384
+        },
+        {
+          "url": "https://framerusercontent.com/images/UfxgDFftY8kdKBjxFLFPoGmChA.png?width=6092&height=6904",
+          "alt": "",
+          "local": "assets/images/UfxgDFftY8kdKBjxFLFPoGmChA.png",
+          "width": 6092,
+          "height": 6904
+        },
+        {
+          "url": "https://framerusercontent.com/images/T5eECtHkVxteAihtcQ5fic9riUk.png?width=1304&height=220",
+          "alt": "",
+          "local": "assets/images/T5eECtHkVxteAihtcQ5fic9riUk.png",
+          "width": 1304,
+          "height": 220
+        },
+        {
+          "url": "https://framerusercontent.com/images/ALEsaxyts67YarnCdPC1xvHjlE.png?width=1920&height=1080",
+          "alt": "DeepGamma Suite option chart with gamma profiles and options flow",
+          "local": "assets/images/ALEsaxyts67YarnCdPC1xvHjlE.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://framerusercontent.com/images/BPdepS3sfGzzRCSSA1PKK1trac0.png?width=1920&height=1080",
+          "alt": "",
+          "local": "assets/images/BPdepS3sfGzzRCSSA1PKK1trac0.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://framerusercontent.com/images/KIv8S3aSmyecLTGnOOBHHQQ22M.png?width=1920&height=1080",
+          "alt": "",
+          "local": "assets/images/KIv8S3aSmyecLTGnOOBHHQQ22M.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://framerusercontent.com/images/4WpGaXzPKLZk7xSNlMLyP2Ordk.png?width=1920&height=1080",
+          "alt": "",
+          "local": "assets/images/4WpGaXzPKLZk7xSNlMLyP2Ordk.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/pricing/deepgamma-web",
+        "https://www.deepcharts.com/e-book",
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/datafeeds",
+        "https://my.deepcharts.com/",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/changelog/v16",
+        "https://www.deepcharts.com/changelog/v15.6",
+        "https://www.deepcharts.com/changelog/deepdom-beta",
+        "https://www.deepcharts.com/changelog/v15",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/datafeeds",
+      "slug": "datafeeds",
+      "title": "Deepcharts Datafeeds",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/kqfE4jpMz1Zg9StEsyUPSBWPd68.png?width=1019&height=1599",
+          "alt": "",
+          "local": "assets/images/kqfE4jpMz1Zg9StEsyUPSBWPd68.png",
+          "width": 1019,
+          "height": 1599
+        },
+        {
+          "url": "https://framerusercontent.com/images/3XprnxF0r53XsleC4AuCPwV5cdk.png?width=807&height=384",
+          "alt": "",
+          "local": "assets/images/3XprnxF0r53XsleC4AuCPwV5cdk.png",
+          "width": 807,
+          "height": 384
+        },
+        {
+          "url": "https://framerusercontent.com/images/UfxgDFftY8kdKBjxFLFPoGmChA.png?width=6092&height=6904",
+          "alt": "",
+          "local": "assets/images/UfxgDFftY8kdKBjxFLFPoGmChA.png",
+          "width": 6092,
+          "height": 6904
+        },
+        {
+          "url": "https://framerusercontent.com/images/T5eECtHkVxteAihtcQ5fic9riUk.png?width=1304&height=220",
+          "alt": "",
+          "local": "assets/images/T5eECtHkVxteAihtcQ5fic9riUk.png",
+          "width": 1304,
+          "height": 220
+        },
+        {
+          "url": "https://framerusercontent.com/images/zByPkWr9xuGvGVO3PJRwfDzBI4I.png?width=1920&height=1080",
+          "alt": "",
+          "local": "assets/images/zByPkWr9xuGvGVO3PJRwfDzBI4I.png",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "url": "https://framerusercontent.com/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png?width=275&height=48",
+          "alt": "",
+          "local": "assets/images/BWG6SdxSUFbWANFJKDZmhDZYF8E.png",
+          "width": 275,
+          "height": 48
+        }
+      ],
+      "media": [
+        {
+          "tag": "iframe",
+          "src": "https://www.googletagmanager.com/ns.html?id=GTM-PCGXDWCL"
+        }
+      ],
+      "links": [
+        "https://www.deepcharts.com/pricing/deepgamma-web",
+        "https://www.deepcharts.com/e-book",
+        "https://www.deepcharts.com/",
+        "https://www.deepcharts.com/datafeeds",
+        "https://my.deepcharts.com/",
+        "https://www.deepcharts.com/pricing/deepdom",
+        "https://www.deepcharts.com/pricing/deepchart",
+        "https://www.instagram.com/deepcharts.io/",
+        "https://www.linkedin.com/company/deepcharts/",
+        "https://x.com/deepcharts",
+        "https://www.youtube.com/@deepchartsTM/streams",
+        "https://www.deepcharts.com/features/deepchart",
+        "https://www.deepcharts.com/features/deepdom",
+        "https://www.deepcharts.com/features/deepgamma",
+        "https://www.deepcharts.com/helpcenter",
+        "https://www.deepcharts.com/blog",
+        "https://www.deepcharts.com/changelog",
+        "https://www.deepcharts.com/affiliate",
+        "https://www.deepcharts.com/integrations",
+        "https://www.deepcharts.com/careers",
+        "https://www.deepcharts.com/risk-disclaimer",
+        "https://www.deepcharts.com/terms-and-conditions",
+        "https://www.deepcharts.com/privacy-and-cookie-policy"
+      ]
+    },
+    {
+      "url": "https://www.deepcharts.com/changelog/v16",
+      "slug": "v16",
+      "title": "DeepChart v16 Release Notes",
+      "images": [
+        {
+          "url": "https://framerusercontent.com/images/ALEsaxyts67YarnCdPC1xvHjlE.png?width=1920&height=1080",
+          "local": "assets/images/ALEsaxyts67YarnCdPC1xvHjlE.png",
+          "alt": "DeepGamma Suite option chart with gamma profiles and options flow"
+        },
+        {
+          "url": "https://framerusercontent.com/images/VFImQAkGzoSWe9zBe0LC5yZwer4.png",
+          "local": "assets/images/VFImQAkGzoSWe9zBe0LC5yZwer4.png",
+          "alt": "DeepGamma Suite option chart with gamma profiles and options flow"
+        },
+        {
+          "url": "https://framerusercontent.com/images/Wqw1IPXEnoovypDKktesd3sV0M.png",
+          "local": "assets/images/Wqw1IPXEnoovypDKktesd3sV0M.png",
+          "alt": "Open Option Chart from the New menu"
+        },
+        {
+          "url": "https://framerusercontent.com/images/VDgjqJguSHFNXenO8V0mJ5uv4gU.png",
+          "local": "assets/images/VDgjqJguSHFNXenO8V0mJ5uv4gU.png",
+          "alt": "Select an instrument for the Option Chart"
+        },
+        {
+          "url": "https://framerusercontent.com/images/QQtiP57yzD5giffWw20DiCNGi5Y.png",
+          "local": "assets/images/QQtiP57yzD5giffWw20DiCNGi5Y.png",
+          "alt": "DeepGamma Option Chart"
+        },
+        {
+          "url": "https://framerusercontent.com/images/iWXl8H1kbws7lHOtv0lI5ngYOvw.png",
+          "local": "assets/images/iWXl8H1kbws7lHOtv0lI5ngYOvw.png",
+          "alt": "Option Chart Templates Bar"
+        },
+        {
+          "url": "https://framerusercontent.com/images/BZH37kNEspLD1zydeu94848.png",
+          "local": "assets/images/BZH37kNEspLD1zydeu94848.png",
+          "alt": "Shared Orderflow templates in DeepChart"
+        },
+        {
+          "url": "https://framerusercontent.com/images/WBQKsRYcqxHk7YrBaMFBG4Riao.png",
+          "local": "assets/images/WBQKsRYcqxHk7YrBaMFBG4Riao.png",
+          "alt": "Shared workspaces by subscription level"
+        },
+        {
+          "url": "https://framerusercontent.com/images/T9FbB9oR2J0RgXZhm4D5slHuc0.png",
+          "local": "assets/images/T9FbB9oR2J0RgXZhm4D5slHuc0.png",
+          "alt": "Shared Option Chart templates"
+        },
+        {
+          "url": "https://framerusercontent.com/images/kd6nDRPoWqn0eTPX0sJgqEsKqg4.png",
+          "local": "assets/images/kd6nDRPoWqn0eTPX0sJgqEsKqg4.png",
+          "alt": "Theme settings location in the Options menu"
+        }
+      ],
+      "media": [],
+      "links": []
+    }
+  ]
+}

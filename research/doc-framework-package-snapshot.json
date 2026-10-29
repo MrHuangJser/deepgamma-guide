@@ -1,0 +1,86 @@
+{
+  "checked_date": "2026-10-29",
+  "packages": [
+    {
+      "package": "@astrojs/starlight",
+      "dist_tags": {
+        "latest": "0.42.7"
+      },
+      "latest_engine": null,
+      "latest_peer_dependencies": {
+        "astro": "^7.2.10",
+        "@astrojs/markdown-remark": "^7.3.0"
+      },
+      "source": "https://registry.npmjs.org/@astrojs/starlight"
+    },
+    {
+      "package": "vitepress",
+      "dist_tags": {
+        "latest": "1.6.4",
+        "next": "2.0.0-alpha.21"
+      },
+      "latest_engine": null,
+      "latest_peer_dependencies": {
+        "postcss": "^8",
+        "markdown-it-mathjax3": "^4"
+      },
+      "source": "https://registry.npmjs.org/vitepress"
+    },
+    {
+      "package": "fumadocs-ui",
+      "dist_tags": {
+        "latest": "16.17.9"
+      },
+      "latest_engine": null,
+      "latest_peer_dependencies": {
+        "next": "16.x.x",
+        "react": "^19.2.0",
+        "react-dom": "^19.2.0",
+        "takumi-js": "*",
+        "@types/mdx": "*",
+        "@types/react": "*",
+        "fumadocs-core": "16.17.9"
+      },
+      "source": "https://registry.npmjs.org/fumadocs-ui"
+    },
+    {
+      "package": "nextra",
+      "dist_tags": {
+        "beta": "2.0.0-beta.45",
+        "canary": "3.1.0-canary.1",
+        "app-router": "4.0.0-app-router.43",
+        "rc": "4.0.0-rc.0",
+        "alpha": "4.3.0-alpha.31",
+        "latest": "4.6.1"
+      },
+      "latest_engine": {
+        "node": ">=18"
+      },
+      "latest_peer_dependencies": {
+        "next": ">=14",
+        "react": ">=18",
+        "react-dom": ">=18"
+      },
+      "source": "https://registry.npmjs.org/nextra"
+    },
+    {
+      "package": "@docusaurus/core",
+      "dist_tags": {
+        "next": "3.0.0-rc.1",
+        "alpha": "3.9.2-alpha.4",
+        "latest": "3.10.2",
+        "canary": "4.0.0-canary-7002"
+      },
+      "latest_engine": {
+        "node": ">=20.0"
+      },
+      "latest_peer_dependencies": {
+        "react": "^18.0.0 || ^19.0.0",
+        "react-dom": "^18.0.0 || ^19.0.0",
+        "@mdx-js/react": "^3.0.0",
+        "@docusaurus/faster": "*"
+      },
+      "source": "https://registry.npmjs.org/@docusaurus/core"
+    }
+  ]
+}
